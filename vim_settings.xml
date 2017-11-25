@@ -99,10 +99,10 @@
         <mark key="^" line="95" column="76" />
         <mark key="." line="95" column="76" />
       </file>
-      <file name="$USER_HOME$/Dev/SerpentAI/plugins/SerpentMergeDragonsGamePlugin/files/serpent_MergeDragons_game.py" timestamp="1511603213887">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Dev/SerpentAI/plugins/SerpentMergeDragonsGamePlugin/files/serpent_MergeDragons_game.py" timestamp="1511603337532">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/fulcro-template/project.clj" timestamp="1506520044232">
         <mark key="'" line="35" column="64" />
@@ -465,25 +465,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KGRlZm1ldGhvZCByL3ByZS1yb3V0ZS1ob29rIDptb2RhbC9zaWdudXAgW19dIGBpbml0LXNpZ251cCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKGRvbS9zcGFuIG5pbCAoaWYgaGFzLWVycm9ycz8gImhhc0Vycm9ycyIgIk5vRXJyb3JzIikpKSkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhhcy1lcnJvcnM/ICh1c2VyLWZvcm0taGFzLWVycm9ycz8gZm9ybSldCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICh0aW1icmUvZGVidWcgIlVzZXIgRm9ybSBIYXMgRXJyb3JzID0gIiB1c2VyLWZvcm0taGFzLWVycm9ycz8pCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAobGV0IFt1c2VyLWZvcm0taGFzLWVycm9ycz8gKHVzZXItZm9ybS1oYXMtZXJyb3JzPyBmb3JtKV0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgKGlmLWxldCBbZm9ybS1lcnJvci1rZXkgKGFuZCAoPSBraW5kIDpibHVyKSAoOnVpL2Zvcm0tZXJyb3Ita2V5IGZvcm0pKV0KICAgICAgICAgICAgICAgICAobGV0IFt1c2VyLWZvcm0taGFzLWVycm9ycz8gKHVzZXItZm9ybS1oYXMtZXJyb3JzPyBmb3JtKV0KICAgICAgICAgICAgICAgICAgICh0aW1icmUvZGVidWcgIlVzZXIgRm9ybSBIYXMgRXJyb3JzID0gIiB1c2VyLWZvcm0taGFzLWVycm9ycz8pCiAgICAgICAgICAgICAgICAgICAoc3dhcCEgc3RhdGUgdXBkYXRlLWluIGZvcm0tZXJyb3Ita2V5IGFzc29jIDp1aS91c2VyLWZvcm0taGFzLWVycm9ycz8gdXNlci1mb3JtLWhhcy1lcnJvcnM/KSkpKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
