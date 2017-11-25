@@ -284,6 +284,13 @@
         <mark key="^" line="63" column="116" />
         <mark key="." line="63" column="79" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/HRLearn/avl_tree.py" timestamp="1511606321974">
+        <mark key="'" line="10" column="23" />
+        <mark key="[" line="26" column="37" />
+        <mark key="]" line="28" column="37" />
+        <mark key="." line="28" column="37" />
+        <mark key="^" line="28" column="37" />
+      </file>
       <file name="$USER_HOME$/Dev/fulcro-template/resources/public/js/fulcro_template.js" timestamp="1506517329433">
         <mark key="[" line="8212" column="76" />
         <mark key="]" line="8212" column="76" />
@@ -348,11 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="57" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
-      <jump line="51" column="16" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
-      <jump line="53" column="76" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
-      <jump line="14" column="0" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
-      <jump line="6" column="53" filename="$USER_HOME$/Dev/remark-web/project.clj" />
       <jump line="107" column="92" filename="$USER_HOME$/Dev/remark-web/project.clj" />
       <jump line="9" column="37" filename="$USER_HOME$/Dev/remark-web/project.clj" />
       <jump line="5" column="13" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
@@ -448,55 +450,60 @@
       <jump line="146" column="70" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
       <jump line="82" column="64" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
       <jump line="85" column="42" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="0" column="10" filename="$USER_HOME$/IdeaProjects/HRLearn/avl_tree.py" />
+      <jump line="1" column="70" filename="$USER_HOME$/IdeaProjects/HRLearn/avl_tree.py" />
+      <jump line="5" column="25" filename="$USER_HOME$/IdeaProjects/HRLearn/avl_tree.py" />
+      <jump line="8" column="21" filename="$USER_HOME$/IdeaProjects/HRLearn/avl_tree.py" />
+      <jump line="10" column="23" filename="$USER_HOME$/IdeaProjects/HRLearn/avl_tree.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>EXECUTABLE_PATH</text>
+        <text encoding="base64">ZGF0YSA=</text>
       </register>
       <register name="-" type="4">
-        <text>EXECUTABLE_PATH</text>
+        <text encoding="base64">ZGF0YSA=</text>
       </register>
       <register name="/" type="4">
-        <text>form-error-key</text>
+        <text>data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChzZW11aS9pY29uIHs6bmFtZSAiY2lyY2xlIG5vdGNoZWQifSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxlZnQgPSBOb25lCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBqago=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dW5yCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmRhdGEgPT0gdmFsdWU6CiAgICAgICAgICAgIHJldHVybiBzZWxmCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZih2YWx1ZSA8IHNlbGYudmFsdWUpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJpZ2h0ID0gTm9uZQogICAgICAgIHNlbGYuZGF0YSA9IE5vbmUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBhcmVudCA9IE5vbmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>form-error-key</last-search>
+      <last-search>data</last-search>
       <last-offset />
-      <last-pattern>form-error-key</last-pattern>
+      <last-pattern>data</last-pattern>
       <last-replace>remark-web</last-replace>
       <last-substitute>fulcro-template</last-substitute>
       <last-dir>1</last-dir>
@@ -504,7 +511,6 @@
     </search>
     <history>
       <history-search>
-        <entry>defmethod</entry>
         <entry>mutation</entry>
         <entry>rm</entry>
         <entry>namespace</entry>
@@ -524,6 +530,7 @@
         <entry>diff</entry>
         <entry>commit-to-entity</entry>
         <entry>form-error-key</entry>
+        <entry>data</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
