@@ -1,0 +1,585 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark/api/mutations.cljs" timestamp="1505832282148">
+        <mark key="'" line="44" column="10" />
+        <mark key="[" line="31" column="22" />
+        <mark key="]" line="31" column="27" />
+        <mark key="." line="31" column="27" />
+        <mark key="^" line="31" column="27" />
+      </file>
+      <file name="$USER_HOME$/Dev/fulcro-template/resources/public/js/fulcro_template.js" timestamp="1506517329433">
+        <mark key="[" line="8212" column="76" />
+        <mark key="]" line="8212" column="76" />
+        <mark key="^" line="8212" column="76" />
+        <mark key="." line="8212" column="76" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" timestamp="1509448199857">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="15" column="29" />
+        <mark key="^" line="15" column="29" />
+        <mark key="." line="15" column="29" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/mutations.clj" timestamp="1509783230471">
+        <mark key="e" line="18" column="36" />
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="11" column="7" />
+        <mark key="^" line="11" column="7" />
+        <mark key="." line="11" column="7" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/semui.cljc" timestamp="1510155264127">
+        <mark key="[" line="20" column="43" />
+        <mark key="]" line="21" column="25" />
+        <mark key="." line="21" column="25" />
+        <mark key="^" line="21" column="25" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/dev/user.clj" timestamp="1506015256391">
+        <mark key="[" line="52" column="71" />
+        <mark key="]" line="52" column="71" />
+        <mark key="." line="52" column="71" />
+        <mark key="^" line="52" column="54" />
+      </file>
+      <file name="$USER_HOME$/.m2/repository/fulcrologic/fulcro/1.0.0-beta11/fulcro-1.0.0-beta11.jar!/fulcro/ui/forms.cljc" timestamp="1510287031681">
+        <mark key="'" line="105" column="16" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark/ui/html5_routing.cljc" timestamp="1505966664264">
+        <mark key="'" line="33" column="4" />
+        <mark key="[" line="95" column="71" />
+        <mark key="]" line="95" column="76" />
+        <mark key="^" line="95" column="76" />
+        <mark key="." line="95" column="76" />
+      </file>
+      <file name="$USER_HOME$/Dev/fulcro-template/src/main/fulcro_template/server.clj" timestamp="1506543504001">
+        <mark key="'" line="179" column="75" />
+        <mark key="[" line="193" column="45" />
+        <mark key="]" line="193" column="45" />
+        <mark key="^" line="195" column="79" />
+        <mark key="." line="193" column="45" />
+      </file>
+      <file name="[remarkdb] CONSOLE - remarkdb" timestamp="1506207244867">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/fulcro-template/src/main/fulcro_template/client.cljs" timestamp="1506517001701">
+        <mark key="[" line="15" column="62" />
+        <mark key="]" line="15" column="62" />
+        <mark key="^" line="15" column="62" />
+        <mark key="." line="15" column="62" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/about.cljc" timestamp="1508993646613">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/fulcro-template/resources/externs.js" timestamp="1506490774094">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="4" column="1" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/resources/sql/migrations/V1__initial_setup.sql" timestamp="1509783530978">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="26" />
+        <mark key="^" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/dev/server/user.clj" timestamp="1504951077686">
+        <mark key="'" line="10" column="4" />
+        <mark key="[" line="90" column="10" />
+        <mark key="]" line="90" column="12" />
+        <mark key="." line="90" column="12" />
+        <mark key="^" line="90" column="12" />
+      </file>
+      <file name="/Dummy.clj" timestamp="1510032831417">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark/api/mutations.clj" timestamp="1505288242549">
+        <mark key="[" line="12" column="51" />
+        <mark key="]" line="12" column="51" />
+        <mark key="^" line="23" column="55" />
+        <mark key="." line="12" column="51" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark/ui/root.cljc" timestamp="1505284771669">
+        <mark key="'" line="28" column="32" />
+        <mark key="[" line="53" column="60" />
+        <mark key="]" line="53" column="59" />
+        <mark key="^" line="53" column="59" />
+        <mark key="." line="53" column="59" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark/api/user_db.clj" timestamp="1505288233862">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="36" column="10" />
+        <mark key="]" line="36" column="9" />
+        <mark key="." line="36" column="9" />
+        <mark key="^" line="36" column="9" />
+      </file>
+      <file name="$USER_HOME$/Dev/getting-started-video/script/figwheel.clj" timestamp="1502534667013">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/config/defaults.edn" timestamp="1506437346007">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="1" column="34" />
+        <mark key="^" line="1" column="34" />
+        <mark key="." line="1" column="34" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark/client.cljs" timestamp="1505965896821">
+        <mark key="[" line="16" column="71" />
+        <mark key="]" line="16" column="71" />
+        <mark key="^" line="16" column="71" />
+        <mark key="." line="16" column="71" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark/ui/login.cljc" timestamp="1505831953980">
+        <mark key="'" line="22" column="42" />
+        <mark key="[" line="50" column="108" />
+        <mark key="]" line="50" column="107" />
+        <mark key="." line="50" column="107" />
+        <mark key="^" line="50" column="107" />
+      </file>
+      <file name="$USER_HOME$/Dev/fulcro-template/src/test/fulcro_template/sample_spec.cljc" timestamp="1503406983194">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+        <mark key="^" line="13" column="19" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/cards/remark_web/intro.cljs" timestamp="1509129182902">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="13" column="54" />
+      </file>
+      <file name="$USER_HOME$/Dev/getting-started-video/project.clj" timestamp="1502534748370">
+        <mark key="'" line="39" column="17" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="30" />
+        <mark key="." line="47" column="30" />
+        <mark key="^" line="47" column="30" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/server_main.clj" timestamp="1506015719588">
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="5" column="41" />
+        <mark key="." line="5" column="41" />
+        <mark key="^" line="5" column="41" />
+      </file>
+      <file name="$USER_HOME$/Dev/fulcro-template/resources/public/nashorn-polyfill.js" timestamp="1506516518704">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/getting-started-video/src/client/app/ui.cljs" timestamp="1503362839267">
+        <mark key="[" line="22" column="46" />
+        <mark key="]" line="22" column="48" />
+        <mark key="." line="22" column="48" />
+        <mark key="^" line="22" column="48" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark/server.clj" timestamp="1505858097417">
+        <mark key="'" line="88" column="33" />
+        <mark key="[" line="37" column="5" />
+        <mark key="]" line="37" column="11" />
+        <mark key="^" line="37" column="11" />
+        <mark key="." line="37" column="11" />
+      </file>
+      <file name="$USER_HOME$/Dev/fulcro-template/src/cards/fulcro_template/intro.cljs" timestamp="1503406520220">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="8" column="36" />
+        <mark key="." line="8" column="36" />
+        <mark key="^" line="8" column="27" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/project.clj" timestamp="1506910582812">
+        <mark key="'" line="9" column="37" />
+        <mark key="[" line="7" column="49" />
+        <mark key="]" line="7" column="49" />
+        <mark key="^" line="7" column="49" />
+        <mark key="." line="7" column="49" />
+      </file>
+      <file name="$USER_HOME$/Dev/core-concepts-videos/src/main/core_concepts/client.cljs" timestamp="1505790902246">
+        <mark key="'" line="60" column="23" />
+        <mark key="[" line="37" column="30" />
+        <mark key="]" line="37" column="29" />
+        <mark key="." line="37" column="29" />
+        <mark key="^" line="37" column="29" />
+      </file>
+      <file name="/REPL.clj" timestamp="1510724946622">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark/ui/new_user.cljc" timestamp="1505862216816">
+        <mark key="'" line="96" column="77" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="35" />
+        <mark key="." line="45" column="73" />
+        <mark key="^" line="45" column="73" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark/ui/signup.cljc" timestamp="1505862291027">
+        <mark key="[" line="11" column="7" />
+        <mark key="]" line="11" column="23" />
+        <mark key="^" line="11" column="23" />
+        <mark key="." line="11" column="23" />
+      </file>
+      <file name="$USER_HOME$/Dev/core-concepts-videos/resources/public/index.html" timestamp="1503816093716">
+        <mark key="[" line="5" column="123" />
+        <mark key="]" line="5" column="126" />
+        <mark key="^" line="5" column="126" />
+        <mark key="." line="5" column="126" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1510810474382">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/remark_web/ui/routing.clj" timestamp="1506002942372">
+        <mark key="'" line="23" column="5" />
+        <mark key="[" line="31" column="21" />
+        <mark key="]" line="31" column="22" />
+        <mark key="." line="31" column="22" />
+        <mark key="^" line="31" column="22" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/config/dev.edn" timestamp="1506659812616">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/client.cljs" timestamp="1508994949896">
+        <mark key="[" line="8" column="69" />
+        <mark key="]" line="8" column="69" />
+        <mark key="^" line="8" column="69" />
+        <mark key="." line="8" column="69" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/resources/sql/pool.properties" timestamp="1506188067969">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="30" />
+        <mark key="." line="5" column="30" />
+        <mark key="^" line="5" column="30" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/home.cljc" timestamp="1509078560795">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="27" />
+        <mark key="." line="12" column="27" />
+        <mark key="^" line="12" column="31" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" timestamp="1509773763187">
+        <mark key="'" line="3" column="44" />
+        <mark key="[" line="101" column="80" />
+        <mark key="]" line="101" column="84" />
+        <mark key="^" line="101" column="84" />
+        <mark key="." line="101" column="84" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/read.clj" timestamp="1510152209029">
+        <mark key="[" line="5" column="35" />
+        <mark key="]" line="5" column="35" />
+        <mark key="^" line="8" column="26" />
+        <mark key="." line="5" column="35" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/resources/public/cards.html" timestamp="1506815188720">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="112" />
+        <mark key="." line="5" column="96" />
+        <mark key="^" line="5" column="93" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/mutations.cljs" timestamp="1509645216835">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/fulcro-template/src/main/fulcro_template/ui/login.cljc" timestamp="1503405384751">
+        <mark key="[" line="38" column="146" />
+        <mark key="]" line="38" column="146" />
+        <mark key="^" line="38" column="148" />
+        <mark key="." line="38" column="146" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" timestamp="1510113248201">
+        <mark key="'" line="81" column="31" />
+        <mark key="[" line="63" column="78" />
+        <mark key="]" line="63" column="79" />
+        <mark key="^" line="63" column="116" />
+        <mark key="." line="63" column="79" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" timestamp="1510811381377">
+        <mark key="[" line="34" column="69" />
+        <mark key="]" line="34" column="71" />
+        <mark key="^" line="34" column="71" />
+        <mark key="." line="34" column="71" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/db/user_db.clj" timestamp="1510186044327">
+        <mark key="[" line="27" column="20" />
+        <mark key="]" line="27" column="20" />
+        <mark key="." line="27" column="20" />
+        <mark key="^" line="27" column="20" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/root.cljc" timestamp="1509645082510">
+        <mark key="'" line="62" column="63" />
+        <mark key="[" line="57" column="77" />
+        <mark key="]" line="57" column="82" />
+        <mark key="^" line="57" column="82" />
+        <mark key="." line="57" column="82" />
+      </file>
+      <file name="$USER_HOME$/Dev/fulcro-template/project.clj" timestamp="1506520044232">
+        <mark key="'" line="35" column="64" />
+        <mark key="[" line="37" column="54" />
+        <mark key="]" line="37" column="54" />
+        <mark key="." line="37" column="54" />
+        <mark key="^" line="35" column="62" />
+      </file>
+      <file name="$USER_HOME$/Dev/core-concepts-videos/src/cards/core_concepts/intro.cljs" timestamp="1503430553577">
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="8" column="12" />
+        <mark key="." line="8" column="12" />
+        <mark key="^" line="8" column="12" />
+      </file>
+      <file name="$USER_HOME$/Dev/fulcro-template/src/main/fulcro_template/client_main.cljs" timestamp="1506537647677">
+        <mark key="[" line="13" column="49" />
+        <mark key="]" line="13" column="54" />
+        <mark key="." line="13" column="54" />
+        <mark key="^" line="13" column="54" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="50" column="57" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="51" column="16" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="53" column="76" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="14" column="0" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="6" column="53" filename="$USER_HOME$/Dev/remark-web/project.clj" />
+      <jump line="107" column="92" filename="$USER_HOME$/Dev/remark-web/project.clj" />
+      <jump line="9" column="37" filename="$USER_HOME$/Dev/remark-web/project.clj" />
+      <jump line="5" column="13" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="20" column="11" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="0" column="7" filename="/REPL.clj" />
+      <jump line="67" column="8" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="86" column="0" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="21" column="29" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="32" column="7" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="61" column="23" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="68" column="63" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="54" column="45" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" />
+      <jump line="78" column="46" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" />
+      <jump line="91" column="75" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" />
+      <jump line="8" column="5" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" />
+      <jump line="39" column="45" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" />
+      <jump line="52" column="67" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" />
+      <jump line="59" column="39" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" />
+      <jump line="10" column="5" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" />
+      <jump line="31" column="10" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" />
+      <jump line="22" column="5" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" />
+      <jump line="23" column="5" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" />
+      <jump line="25" column="8" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" />
+      <jump line="12" column="47" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" />
+      <jump line="14" column="5" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" />
+      <jump line="33" column="18" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" />
+      <jump line="25" column="36" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/root.cljc" />
+      <jump line="21" column="0" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/root.cljc" />
+      <jump line="18" column="11" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" />
+      <jump line="41" column="44" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" />
+      <jump line="73" column="20" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="92" column="8" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="85" column="52" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="81" column="31" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="56" column="0" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" />
+      <jump line="86" column="35" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" />
+      <jump line="38" column="59" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" />
+      <jump line="9" column="14" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" />
+      <jump line="36" column="0" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" />
+      <jump line="34" column="18" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/root.cljc" />
+      <jump line="63" column="48" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" />
+      <jump line="62" column="63" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/root.cljc" />
+      <jump line="1" column="33" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="19" column="24" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="31" column="43" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="41" column="26" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="45" column="34" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="46" column="9" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="48" column="6" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="50" column="6" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="13" column="26" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="2" column="41" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="3" column="41" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="60" column="5" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" />
+      <jump line="0" column="7" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" />
+      <jump line="7" column="19" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" />
+      <jump line="61" column="46" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" />
+      <jump line="65" column="38" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" />
+      <jump line="30" column="52" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="107" column="51" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" />
+      <jump line="3" column="44" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" />
+      <jump line="15" column="39" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="16" column="60" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="62" column="15" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="79" column="11" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="58" column="35" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="64" column="62" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="47" column="44" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="51" column="37" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="70" column="27" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="72" column="31" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="36" column="36" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="102" column="54" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="49" column="54" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="77" column="16" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="98" column="33" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="99" column="26" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="109" column="63" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="1248" column="89" filename="$USER_HOME$/.m2/repository/fulcrologic/fulcro/1.0.0-beta11/fulcro-1.0.0-beta11.jar!/fulcro/ui/forms.cljc" />
+      <jump line="1236" column="102" filename="$USER_HOME$/.m2/repository/fulcrologic/fulcro/1.0.0-beta11/fulcro-1.0.0-beta11.jar!/fulcro/ui/forms.cljc" />
+      <jump line="292" column="10" filename="$USER_HOME$/.m2/repository/fulcrologic/fulcro/1.0.0-beta11/fulcro-1.0.0-beta11.jar!/fulcro/ui/forms.cljc" />
+      <jump line="1111" column="46" filename="$USER_HOME$/.m2/repository/fulcrologic/fulcro/1.0.0-beta11/fulcro-1.0.0-beta11.jar!/fulcro/ui/forms.cljc" />
+      <jump line="1121" column="13" filename="$USER_HOME$/.m2/repository/fulcrologic/fulcro/1.0.0-beta11/fulcro-1.0.0-beta11.jar!/fulcro/ui/forms.cljc" />
+      <jump line="1124" column="31" filename="$USER_HOME$/.m2/repository/fulcrologic/fulcro/1.0.0-beta11/fulcro-1.0.0-beta11.jar!/fulcro/ui/forms.cljc" />
+      <jump line="1125" column="31" filename="$USER_HOME$/.m2/repository/fulcrologic/fulcro/1.0.0-beta11/fulcro-1.0.0-beta11.jar!/fulcro/ui/forms.cljc" />
+      <jump line="1134" column="13" filename="$USER_HOME$/.m2/repository/fulcrologic/fulcro/1.0.0-beta11/fulcro-1.0.0-beta11.jar!/fulcro/ui/forms.cljc" />
+      <jump line="1217" column="2" filename="$USER_HOME$/.m2/repository/fulcrologic/fulcro/1.0.0-beta11/fulcro-1.0.0-beta11.jar!/fulcro/ui/forms.cljc" />
+      <jump line="1232" column="29" filename="$USER_HOME$/.m2/repository/fulcrologic/fulcro/1.0.0-beta11/fulcro-1.0.0-beta11.jar!/fulcro/ui/forms.cljc" />
+      <jump line="105" column="16" filename="$USER_HOME$/.m2/repository/fulcrologic/fulcro/1.0.0-beta11/fulcro-1.0.0-beta11.jar!/fulcro/ui/forms.cljc" />
+      <jump line="74" column="0" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="145" column="37" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="104" column="21" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="146" column="70" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="82" column="64" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="85" column="42" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">b3B0aW9uYWwg</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">b3B0aW9uYWwg</text>
+      </register>
+      <register name="/" type="4">
+        <text>form-error-key</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChzZW11aS9pY29uIHs6bmFtZSAiY2lyY2xlIG5vdGNoZWQifSkK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">KGRlZm1ldGhvZCByL3ByZS1yb3V0ZS1ob29rIDptb2RhbC9zaWdudXAgW19dIGBpbml0LXNpZ251cCkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKGRvbS9zcGFuIG5pbCAoaWYgaGFzLWVycm9ycz8gImhhc0Vycm9ycyIgIk5vRXJyb3JzIikpKSkpKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIGhhcy1lcnJvcnM/ICh1c2VyLWZvcm0taGFzLWVycm9ycz8gZm9ybSldCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICh0aW1icmUvZGVidWcgIlVzZXIgRm9ybSBIYXMgRXJyb3JzID0gIiB1c2VyLWZvcm0taGFzLWVycm9ycz8pCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAobGV0IFt1c2VyLWZvcm0taGFzLWVycm9ycz8gKHVzZXItZm9ybS1oYXMtZXJyb3JzPyBmb3JtKV0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgKGlmLWxldCBbZm9ybS1lcnJvci1rZXkgKGFuZCAoPSBraW5kIDpibHVyKSAoOnVpL2Zvcm0tZXJyb3Ita2V5IGZvcm0pKV0KICAgICAgICAgICAgICAgICAobGV0IFt1c2VyLWZvcm0taGFzLWVycm9ycz8gKHVzZXItZm9ybS1oYXMtZXJyb3JzPyBmb3JtKV0KICAgICAgICAgICAgICAgICAgICh0aW1icmUvZGVidWcgIlVzZXIgRm9ybSBIYXMgRXJyb3JzID0gIiB1c2VyLWZvcm0taGFzLWVycm9ycz8pCiAgICAgICAgICAgICAgICAgICAoc3dhcCEgc3RhdGUgdXBkYXRlLWluIGZvcm0tZXJyb3Ita2V5IGFzc29jIDp1aS91c2VyLWZvcm0taGFzLWVycm9ycz8gdXNlci1mb3JtLWhhcy1lcnJvcnM/KSkpKSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">KCkK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>form-error-key</last-search>
+      <last-offset />
+      <last-pattern>form-error-key</last-pattern>
+      <last-replace>remark-web</last-replace>
+      <last-substitute>fulcro-template</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>defmethod</entry>
+        <entry>mutation</entry>
+        <entry>rm</entry>
+        <entry>namespace</entry>
+        <entry>defmutation</entry>
+        <entry>old-user</entry>
+        <entry>state</entry>
+        <entry>params</entry>
+        <entry>env</entry>
+        <entry>cond</entry>
+        <entry>loader</entry>
+        <entry>form-field-with-label</entry>
+        <entry>children</entry>
+        <entry>red</entry>
+        <entry>user-form-has-errors</entry>
+        <entry>has-errors</entry>
+        <entry>remote</entry>
+        <entry>diff</entry>
+        <entry>commit-to-entity</entry>
+        <entry>form-error-key</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w!</entry>
+        <entry>e</entry>
+        <entry>ew</entry>
+        <entry>we</entry>
+        <entry>q</entry>
+        <entry>server-down</entry>
+        <entry>%s/fulcro-template/remark-web/gc</entry>
+        <entry>::::w</entry>
+        <entry>W</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

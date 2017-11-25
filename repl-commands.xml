@@ -1,0 +1,6 @@
+<application>
+  <component name="ReplCommandManager">
+    <repl-command name="Restart Fulcro" executionType="EXPRESSION" commandText="(user/restart)" executeBefore="NONE" executionNs="REPL_CURRENT" inNamespace="user" />
+    <repl-command name="Fulcro Log App State" executionType="EXPRESSION" commandText="(cljs.user/log-app-state)" executeBefore="NONE" executionNs="REPL_CURRENT" inNamespace="cljs.user" />
+  </component>
+</application>
