@@ -99,10 +99,11 @@
         <mark key="^" line="95" column="76" />
         <mark key="." line="95" column="76" />
       </file>
-      <file name="$USER_HOME$/Dev/SerpentAI/plugins/SerpentMergeDragonsGamePlugin/files/serpent_MergeDragons_game.py" timestamp="1511603337532">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Dev/SerpentAI/plugins/SerpentMergeDragonsGamePlugin/files/serpent_MergeDragons_game.py" timestamp="1511604622466">
+        <mark key="[" line="14" column="70" />
+        <mark key="]" line="14" column="70" />
+        <mark key="." line="14" column="70" />
+        <mark key="^" line="14" column="70" />
       </file>
       <file name="$USER_HOME$/Dev/fulcro-template/project.clj" timestamp="1506520044232">
         <mark key="'" line="35" column="64" />
@@ -449,11 +450,11 @@
       <jump line="85" column="42" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>EXECUTABLE_PATH</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3B0aW9uYWwg</text>
+        <text>EXECUTABLE_PATH</text>
       </register>
       <register name="/" type="4">
         <text>form-error-key</text>
