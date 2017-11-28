@@ -284,11 +284,12 @@
         <mark key="^" line="63" column="116" />
         <mark key="." line="63" column="79" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/HRLearn/avl_tree.py" timestamp="1511844755296">
+      <file name="$USER_HOME$/IdeaProjects/HRLearn/avl_tree.py" timestamp="1511846750966">
         <mark key="'" line="10" column="23" />
-        <mark key="[" line="89" column="11" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="76" column="25" />
       </file>
       <file name="$USER_HOME$/Dev/fulcro-template/resources/public/js/fulcro_template.js" timestamp="1506517329433">
         <mark key="[" line="8212" column="76" />
@@ -457,43 +458,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnPj4gSU5TRVJUSU5HJyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsZWZ0UHJlZml4ID0gcHJlZml4ICsgJ3xfJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi52YWx1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnPj4gSU5TRVJUSU5HJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsZWZ0UHJlZml4ID0gcHJlZml4ICsgJ3xfJwo=</text>
+        <text encoding="base64">ICAgIGRlZiBpbnNlcnQoc2VsZiwgdmFsdWUpOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsZWZ0UHJlZml4ID0gcHJlZml4ICsgJ3w8Jwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBgCg==</text>
+        <text encoding="base64">ICAgICAgICByaWdodFByZWZpeCA9IHByZWZpeCArICd8PicK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJpZ2h0LnByaW50KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByaW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZXB0aAo=</text>
+        <text encoding="base64">ICAgICAgICBpc09ubHlDaGlsZCA9IGlmIHNlbGYucmlnaHQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGVmdFByZWZpeCwgJ05vbmUnKQogICAgICAgIGVsc2U6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
