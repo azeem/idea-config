@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1511847950115">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" timestamp="1510811381377">
         <mark key="[" line="34" column="69" />
         <mark key="]" line="34" column="71" />
