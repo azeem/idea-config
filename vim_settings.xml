@@ -3,69 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" timestamp="1510811381377">
-        <mark key="[" line="34" column="69" />
-        <mark key="]" line="34" column="71" />
-        <mark key="^" line="34" column="71" />
-        <mark key="." line="34" column="71" />
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark/api/mutations.cljs" timestamp="1505832282148">
+        <mark key="'" line="44" column="10" />
+        <mark key="[" line="31" column="22" />
+        <mark key="]" line="31" column="27" />
+        <mark key="." line="31" column="27" />
+        <mark key="^" line="31" column="27" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark/server.clj" timestamp="1505858097417">
-        <mark key="'" line="88" column="33" />
-        <mark key="[" line="37" column="5" />
-        <mark key="]" line="37" column="11" />
-        <mark key="^" line="37" column="11" />
-        <mark key="." line="37" column="11" />
+      <file name="$USER_HOME$/Dev/fulcro-template/resources/public/js/fulcro_template.js" timestamp="1506517329433">
+        <mark key="[" line="8212" column="76" />
+        <mark key="]" line="8212" column="76" />
+        <mark key="^" line="8212" column="76" />
+        <mark key="." line="8212" column="76" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/home.cljc" timestamp="1509078560795">
-        <mark key="[" line="12" column="27" />
-        <mark key="]" line="12" column="27" />
-        <mark key="." line="12" column="27" />
-        <mark key="^" line="12" column="31" />
-      </file>
-      <file name="$USER_HOME$/Dev/remark-web/resources/public/cards.html" timestamp="1506815188720">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="112" />
-        <mark key="." line="5" column="96" />
-        <mark key="^" line="5" column="93" />
-      </file>
-      <file name="$USER_HOME$/Dev/fulcro-template/src/test/fulcro_template/sample_spec.cljc" timestamp="1503406983194">
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="13" column="19" />
-        <mark key="." line="13" column="19" />
-        <mark key="^" line="13" column="19" />
-      </file>
-      <file name="$USER_HOME$/Dev/remark-web/project.clj" timestamp="1506910582812">
-        <mark key="'" line="9" column="37" />
-        <mark key="[" line="7" column="49" />
-        <mark key="]" line="7" column="49" />
-        <mark key="^" line="7" column="49" />
-        <mark key="." line="7" column="49" />
-      </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark/ui/root.cljc" timestamp="1505284771669">
-        <mark key="'" line="28" column="32" />
-        <mark key="[" line="53" column="60" />
-        <mark key="]" line="53" column="59" />
-        <mark key="^" line="53" column="59" />
-        <mark key="." line="53" column="59" />
-      </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark/api/mutations.clj" timestamp="1505288242549">
-        <mark key="[" line="12" column="51" />
-        <mark key="]" line="12" column="51" />
-        <mark key="^" line="23" column="55" />
-        <mark key="." line="12" column="51" />
-      </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/config/dev.edn" timestamp="1506659812616">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="18" />
-        <mark key="." line="1" column="18" />
-        <mark key="^" line="1" column="18" />
-      </file>
-      <file name="$USER_HOME$/Dev/fulcro-template/src/main/fulcro_template/server.clj" timestamp="1506543504001">
-        <mark key="'" line="179" column="75" />
-        <mark key="[" line="193" column="45" />
-        <mark key="]" line="193" column="45" />
-        <mark key="^" line="195" column="79" />
-        <mark key="." line="193" column="45" />
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" timestamp="1509448199857">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="15" column="29" />
+        <mark key="^" line="15" column="29" />
+        <mark key="." line="15" column="29" />
       </file>
       <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/mutations.clj" timestamp="1509783230471">
         <mark key="e" line="18" column="36" />
@@ -74,23 +29,20 @@
         <mark key="^" line="11" column="7" />
         <mark key="." line="11" column="7" />
       </file>
-      <file name="[remarkdb] CONSOLE - remarkdb" timestamp="1506207244867">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/semui.cljc" timestamp="1510155264127">
+        <mark key="[" line="20" column="43" />
+        <mark key="]" line="21" column="25" />
+        <mark key="." line="21" column="25" />
+        <mark key="^" line="21" column="25" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/resources/sql/pool.properties" timestamp="1506188067969">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="30" />
-        <mark key="." line="5" column="30" />
-        <mark key="^" line="5" column="30" />
+      <file name="$USER_HOME$/Dev/remark-web/src/dev/user.clj" timestamp="1506015256391">
+        <mark key="[" line="52" column="71" />
+        <mark key="]" line="52" column="71" />
+        <mark key="." line="52" column="71" />
+        <mark key="^" line="52" column="54" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" timestamp="1509773763187">
-        <mark key="'" line="3" column="44" />
-        <mark key="[" line="101" column="80" />
-        <mark key="]" line="101" column="84" />
-        <mark key="^" line="101" column="84" />
-        <mark key="." line="101" column="84" />
+      <file name="$USER_HOME$/.m2/repository/fulcrologic/fulcro/1.0.0-beta11/fulcro-1.0.0-beta11.jar!/fulcro/ui/forms.cljc" timestamp="1510287031681">
+        <mark key="'" line="105" column="16" />
       </file>
       <file name="$USER_HOME$/Dev/remark-web/src/main/remark/ui/html5_routing.cljc" timestamp="1505966664264">
         <mark key="'" line="33" column="4" />
@@ -99,81 +51,23 @@
         <mark key="^" line="95" column="76" />
         <mark key="." line="95" column="76" />
       </file>
-      <file name="$USER_HOME$/Dev/SerpentAI/plugins/SerpentMergeDragonsGamePlugin/files/serpent_MergeDragons_game.py" timestamp="1511604622466">
-        <mark key="[" line="14" column="70" />
-        <mark key="]" line="14" column="70" />
-        <mark key="." line="14" column="70" />
-        <mark key="^" line="14" column="70" />
+      <file name="$USER_HOME$/Dev/fulcro-template/src/main/fulcro_template/server.clj" timestamp="1506543504001">
+        <mark key="'" line="179" column="75" />
+        <mark key="[" line="193" column="45" />
+        <mark key="]" line="193" column="45" />
+        <mark key="^" line="195" column="79" />
+        <mark key="." line="193" column="45" />
       </file>
-      <file name="$USER_HOME$/Dev/fulcro-template/project.clj" timestamp="1506520044232">
-        <mark key="'" line="35" column="64" />
-        <mark key="[" line="37" column="54" />
-        <mark key="]" line="37" column="54" />
-        <mark key="." line="37" column="54" />
-        <mark key="^" line="35" column="62" />
-      </file>
-      <file name="$USER_HOME$/Dev/getting-started-video/script/figwheel.clj" timestamp="1502534667013">
-        <mark key="[" line="2" column="15" />
-        <mark key="]" line="2" column="15" />
-        <mark key="." line="2" column="15" />
-        <mark key="^" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/core-concepts-videos/src/cards/core_concepts/intro.cljs" timestamp="1503430553577">
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="8" column="12" />
-        <mark key="." line="8" column="12" />
-        <mark key="^" line="8" column="12" />
-      </file>
-      <file name="/Dummy.clj" timestamp="1510032831417">
+      <file name="[remarkdb] CONSOLE - remarkdb" timestamp="1506207244867">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="^" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark/ui/login.cljc" timestamp="1505831953980">
-        <mark key="'" line="22" column="42" />
-        <mark key="[" line="50" column="108" />
-        <mark key="]" line="50" column="107" />
-        <mark key="." line="50" column="107" />
-        <mark key="^" line="50" column="107" />
-      </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/semui.cljc" timestamp="1510155264127">
-        <mark key="[" line="20" column="43" />
-        <mark key="]" line="21" column="25" />
-        <mark key="." line="21" column="25" />
-        <mark key="^" line="21" column="25" />
-      </file>
-      <file name="$USER_HOME$/Dev/remark-web/resources/sql/migrations/V1__initial_setup.sql" timestamp="1509783530978">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="26" />
-        <mark key="^" line="2" column="26" />
-        <mark key="." line="2" column="26" />
-      </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/remark_web/ui/routing.clj" timestamp="1506002942372">
-        <mark key="'" line="23" column="5" />
-        <mark key="[" line="31" column="21" />
-        <mark key="]" line="31" column="22" />
-        <mark key="." line="31" column="22" />
-        <mark key="^" line="31" column="22" />
-      </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark/ui/signup.cljc" timestamp="1505862291027">
-        <mark key="[" line="11" column="7" />
-        <mark key="]" line="11" column="23" />
-        <mark key="^" line="11" column="23" />
-        <mark key="." line="11" column="23" />
-      </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/dev/user.clj" timestamp="1506015256391">
-        <mark key="[" line="52" column="71" />
-        <mark key="]" line="52" column="71" />
-        <mark key="." line="52" column="71" />
-        <mark key="^" line="52" column="54" />
-      </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark/ui/new_user.cljc" timestamp="1505862216816">
-        <mark key="'" line="96" column="77" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="35" />
-        <mark key="." line="45" column="73" />
-        <mark key="^" line="45" column="73" />
+      <file name="$USER_HOME$/Dev/fulcro-template/src/main/fulcro_template/client.cljs" timestamp="1506517001701">
+        <mark key="[" line="15" column="62" />
+        <mark key="]" line="15" column="62" />
+        <mark key="^" line="15" column="62" />
+        <mark key="." line="15" column="62" />
       </file>
       <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/about.cljc" timestamp="1508993646613">
         <mark key="[" line="8" column="0" />
@@ -186,160 +80,11 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/config/defaults.edn" timestamp="1506437346007">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="1" column="34" />
-        <mark key="^" line="1" column="34" />
-        <mark key="." line="1" column="34" />
-      </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark/api/mutations.cljs" timestamp="1505832282148">
-        <mark key="'" line="44" column="10" />
-        <mark key="[" line="31" column="22" />
-        <mark key="]" line="31" column="27" />
-        <mark key="." line="31" column="27" />
-        <mark key="^" line="31" column="27" />
-      </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/client.cljs" timestamp="1508994949896">
-        <mark key="[" line="8" column="69" />
-        <mark key="]" line="8" column="69" />
-        <mark key="^" line="8" column="69" />
-        <mark key="." line="8" column="69" />
-      </file>
-      <file name="$USER_HOME$/.m2/repository/fulcrologic/fulcro/1.0.0-beta11/fulcro-1.0.0-beta11.jar!/fulcro/ui/forms.cljc" timestamp="1510287031681">
-        <mark key="'" line="105" column="16" />
-      </file>
-      <file name="$USER_HOME$/Dev/fulcro-template/src/cards/fulcro_template/intro.cljs" timestamp="1503406520220">
-        <mark key="[" line="8" column="35" />
-        <mark key="]" line="8" column="36" />
-        <mark key="." line="8" column="36" />
-        <mark key="^" line="8" column="27" />
-      </file>
-      <file name="$USER_HOME$/Dev/core-concepts-videos/resources/public/index.html" timestamp="1503816093716">
-        <mark key="[" line="5" column="123" />
-        <mark key="]" line="5" column="126" />
-        <mark key="^" line="5" column="126" />
-        <mark key="." line="5" column="126" />
-      </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/cards/remark_web/intro.cljs" timestamp="1509129182902">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="13" column="54" />
-      </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/db/user_db.clj" timestamp="1510186044327">
-        <mark key="[" line="27" column="20" />
-        <mark key="]" line="27" column="20" />
-        <mark key="." line="27" column="20" />
-        <mark key="^" line="27" column="20" />
-      </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/server_main.clj" timestamp="1506015719588">
-        <mark key="[" line="5" column="31" />
-        <mark key="]" line="5" column="41" />
-        <mark key="." line="5" column="41" />
-        <mark key="^" line="5" column="41" />
-      </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/mutations.cljs" timestamp="1509645216835">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" timestamp="1509448199857">
-        <mark key="[" line="15" column="20" />
-        <mark key="]" line="15" column="29" />
-        <mark key="^" line="15" column="29" />
-        <mark key="." line="15" column="29" />
-      </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/root.cljc" timestamp="1509645082510">
-        <mark key="'" line="62" column="63" />
-        <mark key="[" line="57" column="77" />
-        <mark key="]" line="57" column="82" />
-        <mark key="^" line="57" column="82" />
-        <mark key="." line="57" column="82" />
-      </file>
-      <file name="/REPL.clj" timestamp="1510724946622">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/core-concepts-videos/src/main/core_concepts/client.cljs" timestamp="1505790902246">
-        <mark key="'" line="60" column="23" />
-        <mark key="[" line="37" column="30" />
-        <mark key="]" line="37" column="29" />
-        <mark key="." line="37" column="29" />
-        <mark key="^" line="37" column="29" />
-      </file>
-      <file name="$USER_HOME$/Dev/fulcro-template/src/main/fulcro_template/ui/login.cljc" timestamp="1503405384751">
-        <mark key="[" line="38" column="146" />
-        <mark key="]" line="38" column="146" />
-        <mark key="^" line="38" column="148" />
-        <mark key="." line="38" column="146" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1510810474382">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="22" />
-      </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" timestamp="1510113248201">
-        <mark key="'" line="81" column="31" />
-        <mark key="[" line="63" column="78" />
-        <mark key="]" line="63" column="79" />
-        <mark key="^" line="63" column="116" />
-        <mark key="." line="63" column="79" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/HRLearn/avl_tree.py" timestamp="1511607400272">
-        <mark key="'" line="10" column="23" />
-        <mark key="[" line="52" column="32" />
-        <mark key="]" line="53" column="25" />
-        <mark key="." line="53" column="25" />
-        <mark key="^" line="53" column="25" />
-      </file>
-      <file name="$USER_HOME$/Dev/fulcro-template/resources/public/js/fulcro_template.js" timestamp="1506517329433">
-        <mark key="[" line="8212" column="76" />
-        <mark key="]" line="8212" column="76" />
-        <mark key="^" line="8212" column="76" />
-        <mark key="." line="8212" column="76" />
-      </file>
-      <file name="$USER_HOME$/Dev/fulcro-template/src/main/fulcro_template/client.cljs" timestamp="1506517001701">
-        <mark key="[" line="15" column="62" />
-        <mark key="]" line="15" column="62" />
-        <mark key="^" line="15" column="62" />
-        <mark key="." line="15" column="62" />
-      </file>
-      <file name="$USER_HOME$/Dev/getting-started-video/project.clj" timestamp="1502534748370">
-        <mark key="'" line="39" column="17" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="30" />
-        <mark key="." line="47" column="30" />
-        <mark key="^" line="47" column="30" />
-      </file>
-      <file name="$USER_HOME$/Dev/fulcro-template/src/main/fulcro_template/client_main.cljs" timestamp="1506537647677">
-        <mark key="[" line="13" column="49" />
-        <mark key="]" line="13" column="54" />
-        <mark key="." line="13" column="54" />
-        <mark key="^" line="13" column="54" />
-      </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark/client.cljs" timestamp="1505965896821">
-        <mark key="[" line="16" column="71" />
-        <mark key="]" line="16" column="71" />
-        <mark key="^" line="16" column="71" />
-        <mark key="." line="16" column="71" />
-      </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark/api/user_db.clj" timestamp="1505288233862">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="36" column="10" />
-        <mark key="]" line="36" column="9" />
-        <mark key="." line="36" column="9" />
-        <mark key="^" line="36" column="9" />
-      </file>
-      <file name="$USER_HOME$/Dev/getting-started-video/src/client/app/ui.cljs" timestamp="1503362839267">
-        <mark key="[" line="22" column="46" />
-        <mark key="]" line="22" column="48" />
-        <mark key="." line="22" column="48" />
-        <mark key="^" line="22" column="48" />
-      </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/read.clj" timestamp="1510152209029">
-        <mark key="[" line="5" column="35" />
-        <mark key="]" line="5" column="35" />
-        <mark key="^" line="8" column="26" />
-        <mark key="." line="5" column="35" />
+      <file name="$USER_HOME$/Dev/remark-web/resources/sql/migrations/V1__initial_setup.sql" timestamp="1509783530978">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="26" />
+        <mark key="^" line="2" column="26" />
+        <mark key="." line="2" column="26" />
       </file>
       <file name="$USER_HOME$/Dev/remark-web/dev/server/user.clj" timestamp="1504951077686">
         <mark key="'" line="10" column="4" />
@@ -348,10 +93,265 @@
         <mark key="." line="90" column="12" />
         <mark key="^" line="90" column="12" />
       </file>
+      <file name="/Dummy.clj" timestamp="1510032831417">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark/api/mutations.clj" timestamp="1505288242549">
+        <mark key="[" line="12" column="51" />
+        <mark key="]" line="12" column="51" />
+        <mark key="^" line="23" column="55" />
+        <mark key="." line="12" column="51" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark/ui/root.cljc" timestamp="1505284771669">
+        <mark key="'" line="28" column="32" />
+        <mark key="[" line="53" column="60" />
+        <mark key="]" line="53" column="59" />
+        <mark key="^" line="53" column="59" />
+        <mark key="." line="53" column="59" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark/api/user_db.clj" timestamp="1505288233862">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="36" column="10" />
+        <mark key="]" line="36" column="9" />
+        <mark key="." line="36" column="9" />
+        <mark key="^" line="36" column="9" />
+      </file>
+      <file name="$USER_HOME$/Dev/getting-started-video/script/figwheel.clj" timestamp="1502534667013">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/config/defaults.edn" timestamp="1506437346007">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="1" column="34" />
+        <mark key="^" line="1" column="34" />
+        <mark key="." line="1" column="34" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark/client.cljs" timestamp="1505965896821">
+        <mark key="[" line="16" column="71" />
+        <mark key="]" line="16" column="71" />
+        <mark key="^" line="16" column="71" />
+        <mark key="." line="16" column="71" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark/ui/login.cljc" timestamp="1505831953980">
+        <mark key="'" line="22" column="42" />
+        <mark key="[" line="50" column="108" />
+        <mark key="]" line="50" column="107" />
+        <mark key="." line="50" column="107" />
+        <mark key="^" line="50" column="107" />
+      </file>
+      <file name="$USER_HOME$/Dev/fulcro-template/src/test/fulcro_template/sample_spec.cljc" timestamp="1503406983194">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+        <mark key="^" line="13" column="19" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/cards/remark_web/intro.cljs" timestamp="1509129182902">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="13" column="54" />
+      </file>
+      <file name="$USER_HOME$/Dev/getting-started-video/project.clj" timestamp="1502534748370">
+        <mark key="'" line="39" column="17" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="30" />
+        <mark key="." line="47" column="30" />
+        <mark key="^" line="47" column="30" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/server_main.clj" timestamp="1506015719588">
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="5" column="41" />
+        <mark key="." line="5" column="41" />
+        <mark key="^" line="5" column="41" />
+      </file>
       <file name="$USER_HOME$/Dev/fulcro-template/resources/public/nashorn-polyfill.js" timestamp="1506516518704">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/HRLearn/avl_tree.py" timestamp="1511607400272">
+        <mark key="'" line="10" column="23" />
+        <mark key="[" line="52" column="32" />
+        <mark key="]" line="53" column="25" />
+        <mark key="." line="53" column="25" />
+        <mark key="^" line="53" column="25" />
+      </file>
+      <file name="$USER_HOME$/Dev/getting-started-video/src/client/app/ui.cljs" timestamp="1503362839267">
+        <mark key="[" line="22" column="46" />
+        <mark key="]" line="22" column="48" />
+        <mark key="." line="22" column="48" />
+        <mark key="^" line="22" column="48" />
+      </file>
+      <file name="$USER_HOME$/Dev/SerpentAI/plugins/SerpentMergeDragonsGamePlugin/files/serpent_MergeDragons_game.py" timestamp="1511604622466">
+        <mark key="[" line="14" column="70" />
+        <mark key="]" line="14" column="70" />
+        <mark key="." line="14" column="70" />
+        <mark key="^" line="14" column="70" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark/server.clj" timestamp="1505858097417">
+        <mark key="'" line="88" column="33" />
+        <mark key="[" line="37" column="5" />
+        <mark key="]" line="37" column="11" />
+        <mark key="^" line="37" column="11" />
+        <mark key="." line="37" column="11" />
+      </file>
+      <file name="$USER_HOME$/Dev/fulcro-template/src/cards/fulcro_template/intro.cljs" timestamp="1503406520220">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="8" column="36" />
+        <mark key="." line="8" column="36" />
+        <mark key="^" line="8" column="27" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/project.clj" timestamp="1506910582812">
+        <mark key="'" line="9" column="37" />
+        <mark key="[" line="7" column="49" />
+        <mark key="]" line="7" column="49" />
+        <mark key="^" line="7" column="49" />
+        <mark key="." line="7" column="49" />
+      </file>
+      <file name="$USER_HOME$/Dev/core-concepts-videos/src/main/core_concepts/client.cljs" timestamp="1505790902246">
+        <mark key="'" line="60" column="23" />
+        <mark key="[" line="37" column="30" />
+        <mark key="]" line="37" column="29" />
+        <mark key="." line="37" column="29" />
+        <mark key="^" line="37" column="29" />
+      </file>
+      <file name="/REPL.clj" timestamp="1510724946622">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark/ui/new_user.cljc" timestamp="1505862216816">
+        <mark key="'" line="96" column="77" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="35" />
+        <mark key="." line="45" column="73" />
+        <mark key="^" line="45" column="73" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark/ui/signup.cljc" timestamp="1505862291027">
+        <mark key="[" line="11" column="7" />
+        <mark key="]" line="11" column="23" />
+        <mark key="^" line="11" column="23" />
+        <mark key="." line="11" column="23" />
+      </file>
+      <file name="$USER_HOME$/Dev/core-concepts-videos/resources/public/index.html" timestamp="1503816093716">
+        <mark key="[" line="5" column="123" />
+        <mark key="]" line="5" column="126" />
+        <mark key="^" line="5" column="126" />
+        <mark key="." line="5" column="126" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1510810474382">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/remark_web/ui/routing.clj" timestamp="1506002942372">
+        <mark key="'" line="23" column="5" />
+        <mark key="[" line="31" column="21" />
+        <mark key="]" line="31" column="22" />
+        <mark key="." line="31" column="22" />
+        <mark key="^" line="31" column="22" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/config/dev.edn" timestamp="1506659812616">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/client.cljs" timestamp="1508994949896">
+        <mark key="[" line="8" column="69" />
+        <mark key="]" line="8" column="69" />
+        <mark key="^" line="8" column="69" />
+        <mark key="." line="8" column="69" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/resources/sql/pool.properties" timestamp="1506188067969">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="30" />
+        <mark key="." line="5" column="30" />
+        <mark key="^" line="5" column="30" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/home.cljc" timestamp="1509078560795">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="27" />
+        <mark key="." line="12" column="27" />
+        <mark key="^" line="12" column="31" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" timestamp="1509773763187">
+        <mark key="'" line="3" column="44" />
+        <mark key="[" line="101" column="80" />
+        <mark key="]" line="101" column="84" />
+        <mark key="^" line="101" column="84" />
+        <mark key="." line="101" column="84" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/read.clj" timestamp="1510152209029">
+        <mark key="[" line="5" column="35" />
+        <mark key="]" line="5" column="35" />
+        <mark key="^" line="8" column="26" />
+        <mark key="." line="5" column="35" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/resources/public/cards.html" timestamp="1506815188720">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="112" />
+        <mark key="." line="5" column="96" />
+        <mark key="^" line="5" column="93" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/mutations.cljs" timestamp="1509645216835">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/fulcro-template/src/main/fulcro_template/ui/login.cljc" timestamp="1503405384751">
+        <mark key="[" line="38" column="146" />
+        <mark key="]" line="38" column="146" />
+        <mark key="^" line="38" column="148" />
+        <mark key="." line="38" column="146" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" timestamp="1510113248201">
+        <mark key="'" line="81" column="31" />
+        <mark key="[" line="63" column="78" />
+        <mark key="]" line="63" column="79" />
+        <mark key="^" line="63" column="116" />
+        <mark key="." line="63" column="79" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" timestamp="1512028667240">
+        <mark key="[" line="34" column="69" />
+        <mark key="]" line="34" column="71" />
+        <mark key="^" line="34" column="71" />
+        <mark key="." line="34" column="71" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/db/user_db.clj" timestamp="1510186044327">
+        <mark key="[" line="27" column="20" />
+        <mark key="]" line="27" column="20" />
+        <mark key="." line="27" column="20" />
+        <mark key="^" line="27" column="20" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/root.cljc" timestamp="1509645082510">
+        <mark key="'" line="62" column="63" />
+        <mark key="[" line="57" column="77" />
+        <mark key="]" line="57" column="82" />
+        <mark key="^" line="57" column="82" />
+        <mark key="." line="57" column="82" />
+      </file>
+      <file name="$USER_HOME$/Dev/fulcro-template/project.clj" timestamp="1506520044232">
+        <mark key="'" line="35" column="64" />
+        <mark key="[" line="37" column="54" />
+        <mark key="]" line="37" column="54" />
+        <mark key="." line="37" column="54" />
+        <mark key="^" line="35" column="62" />
+      </file>
+      <file name="$USER_HOME$/Dev/core-concepts-videos/src/cards/core_concepts/intro.cljs" timestamp="1503430553577">
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="8" column="12" />
+        <mark key="." line="8" column="12" />
+        <mark key="^" line="8" column="12" />
+      </file>
+      <file name="$USER_HOME$/Dev/fulcro-template/src/main/fulcro_template/client_main.cljs" timestamp="1506537647677">
+        <mark key="[" line="13" column="49" />
+        <mark key="]" line="13" column="54" />
+        <mark key="." line="13" column="54" />
+        <mark key="^" line="13" column="54" />
       </file>
     </filemarks>
     <jumps>
@@ -511,6 +511,7 @@
     </search>
     <history>
       <history-search>
+        <entry>defmethod</entry>
         <entry>mutation</entry>
         <entry>rm</entry>
         <entry>namespace</entry>
@@ -530,7 +531,6 @@
         <entry>diff</entry>
         <entry>commit-to-entity</entry>
         <entry>form-error-key</entry>
-        <entry>data</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
