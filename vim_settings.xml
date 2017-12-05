@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/remark-web/project.clj" timestamp="1512279084821" />
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/mutations.clj" timestamp="1512493993321" />
     </filemarks>
     <jumps />
     <registers />
@@ -20,6 +20,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
