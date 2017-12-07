@@ -9,14 +9,45 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" timestamp="1512543079318">
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" timestamp="1512553698121">
+        <mark key="[" line="55" column="19" />
+        <mark key="]" line="55" column="19" />
+        <mark key="^" line="55" column="81" />
+        <mark key="." line="55" column="19" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" timestamp="1512553613189">
         <mark key="'" line="109" column="0" />
+        <mark key="[" line="161" column="20" />
+        <mark key="]" line="161" column="31" />
+        <mark key="." line="161" column="31" />
+        <mark key="^" line="161" column="31" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" timestamp="1512553736442">
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="15" column="33" />
+        <mark key="^" line="15" column="33" />
+        <mark key="." line="15" column="33" />
       </file>
     </filemarks>
     <jumps>
       <jump line="109" column="0" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
     </jumps>
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChkb20vZGl2ICNqcyB7OnN0eWxlIHs6ZmxvYXQgImxlZnQifX0gIkFscmVhZHkgSGF2ZSBhbiBhY2NvdW50PyAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoZG9tL2EgI2pzIHs6aHJlZiAiL2xvZ2luIn0gIkxvZ2luIikpCg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>:</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoZG9tL2RpdiB7OnRleHRBbGlnbiAiY2VudGVyIn0gIkFscmVhZHkgSGF2ZSBhbiBhY2NvdW50PyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoc2VtdWkvYnV0dG9uIHs6YXMgImEiIDpwcmltYXJ5IHRydWUgOmhyZWYgIi9sb2dpbiJ9ICJMb2dpbiIpKQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>:</text>
+      </register>
       <register name="/" type="4">
         <text>Already</text>
       </register>
@@ -33,7 +64,9 @@
         <entry>already</entry>
         <entry>Already</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
@@ -46,6 +79,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
