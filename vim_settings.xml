@@ -27,11 +27,11 @@
         <mark key="." line="169" column="65" />
         <mark key="^" line="169" column="65" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" timestamp="1512553736442">
-        <mark key="[" line="15" column="33" />
-        <mark key="]" line="15" column="33" />
-        <mark key="^" line="15" column="33" />
-        <mark key="." line="15" column="33" />
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" timestamp="1512697812572">
+        <mark key="[" line="21" column="73" />
+        <mark key="]" line="21" column="72" />
+        <mark key="^" line="21" column="72" />
+        <mark key="." line="21" column="72" />
       </file>
     </filemarks>
     <jumps>
@@ -52,10 +52,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>Woohoo</text>
@@ -64,28 +64,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIldvb2hvb28hISEiKQo=</text>
+        <text encoding="base64">KGRlZnVpIF46b25jZSBMb2dpbkZvcm0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiQ2xpY2sgIgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpoZWFkZXIgIlNpZ251cCBTdWNjZXNzISIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpjb250ZW50ICIifQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">KGRlZiBtZXNzYWdlLWNvbnRlbnQgKG1ha2UtY29tcCAiTWVzc2FnZSIgIkNvbnRlbnQiKSkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIldvb2hvb28hISEiKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiQ2xpY2sgIgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpoZWFkZXIgIlNpZ251cCBTdWNjZXNzISIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpjb250ZW50ICIifQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CjsoZGVmbWV0aG9kIGZtL211dGF0ZSBgZm9ybS1jaGFuZ2UtY2hlY2sKOyAgWyBfIHs6a2V5cyBbZmllbGQga2luZCBmb3JtLWlkXX1dCjsgIHs6YWN0aW9uIChmbiBbXSkKOyAgIDpyZW1vdGV9KQo=</text>
+        <text encoding="base64">KGRlZiBtZXNzYWdlLWNvbnRlbnQgKG1ha2UtY29tcCAiTWVzc2FnZSIgIkNvbnRlbnQiKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICgpKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
