@@ -25,12 +25,12 @@
         <mark key="." line="194" column="120" />
         <mark key="^" line="194" column="120" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" timestamp="1512889771004">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="59" column="106" />
-        <mark key="]" line="59" column="105" />
-        <mark key="." line="59" column="105" />
-        <mark key="^" line="59" column="105" />
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" timestamp="1512977981015">
+        <mark key="'" line="60" column="84" />
+        <mark key="[" line="29" column="54" />
+        <mark key="]" line="29" column="54" />
+        <mark key="." line="29" column="54" />
+        <mark key="^" line="29" column="54" />
       </file>
     </filemarks>
     <jumps>
@@ -50,18 +50,24 @@
       <jump line="48" column="2" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
       <jump line="29" column="29" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" />
       <jump line="56" column="88" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" />
-      <jump line="23" column="63" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" />
       <jump line="10" column="0" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" />
+      <jump line="4" column="0" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" />
+      <jump line="23" column="65" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" />
+      <jump line="28" column="2" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" />
+      <jump line="34" column="75" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" />
+      <jump line="36" column="48" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" />
+      <jump line="41" column="35" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" />
+      <jump line="60" column="84" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dHJpIA==</text>
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dHJpIA==</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
-        <text>trim</text>
+        <text>form-valid?</text>
       </register>
       <register name="0" type="4">
         <text>(semui/form-field nil
@@ -69,40 +75,40 @@
                                                                       (semui/input nil))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOm9uQ2hhbmdlICMoZm0vc2V0LXN0cmluZyEgdGhpcyA6dXNlcm5hbWUgOmV2ZW50ICUpfSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgW2NsanMuY29yZS5zdHIgOmFzIHNdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOm9uQ2hhbmdlICMoZm0vc2V0LXN0cmluZyEgdGhpcyA6dXNlcm5hbWUgOmV2ZW50ICUpfSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAoYWN0aW9uIFt7OmtleXMgcCBbXX1dKSkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAoYWN0aW9uIFt7OmtleXMgcCBbXX1dKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KGRlZnVpIF46b25jZSBMb2dpbkZvcm0pCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">KGRlZnVpIF46b25jZSBMb2dpbkZvcm0pCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIldvb2hvb28hISEiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiQ2xpY2sgIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIldvb2hvb28hISEiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpoZWFkZXIgIlNpZ251cCBTdWNjZXNzISIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpjb250ZW50ICIifQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiQ2xpY2sgIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>trim</last-search>
+      <last-search>form-valid?</last-search>
       <last-offset />
-      <last-pattern>trim</last-pattern>
+      <last-pattern>form-valid?</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -117,6 +123,7 @@
         <entry>input</entry>
         <entry>onChange</entry>
         <entry>trim</entry>
+        <entry>form-valid?</entry>
       </history-search>
       <history-cmd>
         <entry>vsplit</entry>
