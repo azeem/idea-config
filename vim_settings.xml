@@ -25,12 +25,12 @@
         <mark key="." line="194" column="120" />
         <mark key="^" line="194" column="120" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" timestamp="1513046898017">
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" timestamp="1513054082186">
         <mark key="'" line="60" column="84" />
-        <mark key="[" line="22" column="51" />
-        <mark key="]" line="22" column="50" />
-        <mark key="." line="22" column="50" />
-        <mark key="^" line="22" column="50" />
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="21" column="35" />
+        <mark key="." line="21" column="35" />
+        <mark key="^" line="21" column="35" />
       </file>
     </filemarks>
     <jumps>
@@ -61,10 +61,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>{:keys [username password] :as state}]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>{:keys [username password] :as state}]</text>
       </register>
       <register name="/" type="4">
         <text>form-valid?</text>
