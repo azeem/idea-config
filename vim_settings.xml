@@ -11,6 +11,13 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" timestamp="1513147985324">
+        <mark key="'" line="159" column="78" />
+        <mark key="[" line="225" column="120" />
+        <mark key="]" line="225" column="119" />
+        <mark key="^" line="225" column="119" />
+        <mark key="." line="225" column="119" />
+      </file>
       <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/semui.cljc" timestamp="1512793914097">
         <mark key="[" line="22" column="29" />
         <mark key="]" line="23" column="27" />
@@ -69,16 +76,19 @@
       <jump line="36" column="48" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" />
       <jump line="41" column="35" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" />
       <jump line="60" column="84" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" />
+      <jump line="105" column="17" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="112" column="45" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="159" column="78" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgKHRpbWJyZS9kZWJ1ZyAiPj4+IGNvbmZpZyA9ICIgY29uZmlnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
-        <text>form-valid?</text>
+        <text>config</text>
       </register>
       <register name="0" type="4">
         <text>(semui/form-field nil
@@ -86,10 +96,10 @@
                                                                       (semui/input nil))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgKHRpbWJyZS9kZWJ1ZyAiPj4+IGNvbmZpZyA9ICIgY29uZmlnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgKHRpbWJyZS9kZWJ1ZyAiPj4+IGNvbmZpZyA9ICIgY29uZmlnKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -98,28 +108,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKHN3YXAhIHN0YXRlIGFzc29jLWluIChjb25qIHJlZiA6dWkvbG9naW4tc3RhdHVzKSA6bG9hZGluZykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKHRpbWJyZS9kZWJ1ZyAiZm9ybSB2YWx1ZSA9ICIgdmFsdWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKHN3YXAhIHN0YXRlIGFzc29jLWluIChjb25qIHJlZiA6dWkvbG9naW4tc3RhdHVzKSA6bG9hZGluZykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>form-valid?</last-search>
+      <last-search>config</last-search>
       <last-offset />
-      <last-pattern>form-valid?</last-pattern>
+      <last-pattern>config</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -135,6 +145,7 @@
         <entry>onChange</entry>
         <entry>trim</entry>
         <entry>form-valid?</entry>
+        <entry>config</entry>
       </history-search>
       <history-cmd>
         <entry>vsplit</entry>
