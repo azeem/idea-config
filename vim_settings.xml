@@ -6,6 +6,11 @@
       <file name="/Dummy.txt" timestamp="1512793937316">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/remark-web/project.clj" timestamp="1513142059298">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/semui.cljc" timestamp="1512793914097">
         <mark key="[" line="22" column="29" />
         <mark key="]" line="23" column="27" />
@@ -84,28 +89,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKHN3YXAhIHN0YXRlIGFzc29jLWluIChjb25qIHJlZiA6dWkvbG9naW4tc3RhdHVzKSA6bG9hZGluZykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKHRpbWJyZS9kZWJ1ZyAiZm9ybSB2YWx1ZSA9ICIgdmFsdWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW2NsanMuY29yZS5zdHIgOmFzIHNdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOm9uQ2hhbmdlICMoZm0vc2V0LXN0cmluZyEgdGhpcyA6dXNlcm5hbWUgOmV2ZW50ICUpfSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKHN3YXAhIHN0YXRlIGFzc29jLWluIChjb25qIHJlZiA6dWkvbG9naW4tc3RhdHVzKSA6bG9hZGluZykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAoYWN0aW9uIFt7OmtleXMgcCBbXX1dKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKHRpbWJyZS9kZWJ1ZyAiZm9ybSB2YWx1ZSA9ICIgdmFsdWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -156,6 +161,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
