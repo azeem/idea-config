@@ -11,12 +11,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" timestamp="1513149943420">
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" timestamp="1513151350401">
         <mark key="'" line="125" column="11" />
-        <mark key="[" line="162" column="99" />
-        <mark key="]" line="162" column="98" />
-        <mark key="^" line="162" column="98" />
-        <mark key="." line="162" column="98" />
+        <mark key="[" line="187" column="63" />
+        <mark key="]" line="187" column="62" />
+        <mark key="^" line="187" column="62" />
+        <mark key="." line="187" column="62" />
       </file>
       <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/semui.cljc" timestamp="1512793914097">
         <mark key="[" line="22" column="29" />
