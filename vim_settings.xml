@@ -11,12 +11,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" timestamp="1513151350401">
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" timestamp="1513152987272">
         <mark key="'" line="125" column="11" />
-        <mark key="[" line="187" column="63" />
-        <mark key="]" line="187" column="62" />
-        <mark key="^" line="187" column="62" />
-        <mark key="." line="187" column="62" />
+        <mark key="[" line="161" column="93" />
+        <mark key="]" line="161" column="92" />
+        <mark key="^" line="161" column="92" />
+        <mark key="." line="161" column="92" />
       </file>
       <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/semui.cljc" timestamp="1512793914097">
         <mark key="[" line="22" column="29" />
@@ -88,10 +88,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>hs256</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>hs256</text>
       </register>
       <register name="/" type="4">
         <text>SessionStore</text>
