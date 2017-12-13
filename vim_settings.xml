@@ -11,12 +11,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" timestamp="1513147985324">
-        <mark key="'" line="159" column="78" />
-        <mark key="[" line="225" column="120" />
-        <mark key="]" line="225" column="119" />
-        <mark key="^" line="225" column="119" />
-        <mark key="." line="225" column="119" />
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" timestamp="1513149943420">
+        <mark key="'" line="125" column="11" />
+        <mark key="[" line="162" column="99" />
+        <mark key="]" line="162" column="98" />
+        <mark key="^" line="162" column="98" />
+        <mark key="." line="162" column="98" />
       </file>
       <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/semui.cljc" timestamp="1512793914097">
         <mark key="[" line="22" column="29" />
@@ -79,16 +79,22 @@
       <jump line="105" column="17" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
       <jump line="112" column="45" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
       <jump line="159" column="78" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="44" column="0" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="236" column="35" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="127" column="11" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="128" column="8" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="223" column="53" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="125" column="11" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgKHRpbWJyZS9kZWJ1ZyAiPj4+IGNvbmZpZyA9ICIgY29uZmlnKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>config</text>
+        <text>SessionStore</text>
       </register>
       <register name="0" type="4">
         <text>(semui/form-field nil
@@ -96,40 +102,40 @@
                                                                       (semui/input nil))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgKHRpbWJyZS9kZWJ1ZyAiPj4+IGNvbmZpZyA9ICIgY29uZmlnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOnByaXZhdGUta2V5IHByaXZhdGUta2V5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgKHRpbWJyZS9kZWJ1ZyAiPj4+IGNvbmZpZyA9ICIgY29uZmlnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHByaXZhdGUta2V5IChiZGtleXMvcHJpdmF0ZS1rZXkgKDpwcml2YXRlLWtleSBjb25maWcpKV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHB1YmxpYy1rZXkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOnNlc3Npb24tc3RvcmUgICAgICAgICAgICAgICAobWFwLT5TZXNzaW9uU3RvcmUge30pCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">OyBBIHBsYWNlIHRvIHB1dCB1c2VyJ3Mgc2Vzc2lvbnMuIFNlZSBSaW5nIHdyYXAtc2Vzc2lvbi4KOyBXZSBjb3VsZCB1c2UgUmluZydzIGluIG1lbW9yeSBzZXNzaW9uIHN0b3JlLCBidXQgdGhpcyBvbmUgaXMgYSBjb21wb25lbnQgdGhhdCB3aWxsIHJlc2V0IG9uIHNlcnZlciByZXN0YXJ0cwooZGVmcmVjb3JkIFNlc3Npb25TdG9yZSBbbWVtb3J5LXN0b3JlXQogIHN0b3JlL1Nlc3Npb25TdG9yZQogIChyZWFkLXNlc3Npb24gW18ga2V5XQogICAgKGdldCBAbWVtb3J5LXN0b3JlIGtleSkpCiAgKHdyaXRlLXNlc3Npb24gW18ga2V5IGRhdGFdCiAgICAobGV0IFtrZXkgKG9yIGtleSAodXRpbC91bmlxdWUta2V5KSldCiAgICAgIChzd2FwISBtZW1vcnktc3RvcmUgYXNzb2Mga2V5IGRhdGEpCiAgICAgIGtleSkpCiAgKGRlbGV0ZS1zZXNzaW9uIFtfIGtleV0KICAgIChzd2FwISBtZW1vcnktc3RvcmUgZGlzc29jIGtleSkKICAgIG5pbCkKICBjb21wb25lbnQvTGlmZWN5Y2xlCiAgKHN0YXJ0IFt0aGlzXSAoYXNzb2MgdGhpcyA6bWVtb3J5LXN0b3JlIChhdG9tIHt9KSkpCiAgKHN0b3AgW3RoaXNdIHRoaXMpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgKHRpbWJyZS9kZWJ1ZyAiPj4+IGNvbmZpZyA9ICIgY29uZmlnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgKHRpbWJyZS9kZWJ1ZyAiPj4+IGNvbmZpZyA9ICIgY29uZmlnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKHN3YXAhIHN0YXRlIGFzc29jLWluIChjb25qIHJlZiA6dWkvbG9naW4tc3RhdHVzKSA6bG9hZGluZykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>config</last-search>
+      <last-search>SessionStore</last-search>
       <last-offset />
-      <last-pattern>config</last-pattern>
+      <last-pattern>SessionStore</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -146,6 +152,8 @@
         <entry>trim</entry>
         <entry>form-valid?</entry>
         <entry>config</entry>
+        <entry>APIModule</entry>
+        <entry>SessionStore</entry>
       </history-search>
       <history-cmd>
         <entry>vsplit</entry>
@@ -175,6 +183,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
