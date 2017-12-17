@@ -11,12 +11,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" timestamp="1513152987272">
-        <mark key="'" line="125" column="11" />
-        <mark key="[" line="161" column="93" />
-        <mark key="]" line="161" column="92" />
-        <mark key="^" line="161" column="92" />
-        <mark key="." line="161" column="92" />
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" timestamp="1513470726491">
+        <mark key="'" line="211" column="20" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
+        <mark key="^" line="229" column="50" />
       </file>
       <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/semui.cljc" timestamp="1512793914097">
         <mark key="[" line="22" column="29" />
@@ -24,18 +24,27 @@
         <mark key="." line="23" column="27" />
         <mark key="^" line="23" column="27" />
       </file>
+      <file name="/REPL.clj" timestamp="1513469238545">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" timestamp="1512553698121">
         <mark key="[" line="55" column="19" />
         <mark key="]" line="55" column="19" />
         <mark key="^" line="55" column="81" />
         <mark key="." line="55" column="19" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" timestamp="1512794403717">
-        <mark key="'" line="48" column="2" />
-        <mark key="[" line="194" column="121" />
-        <mark key="]" line="194" column="120" />
-        <mark key="." line="194" column="120" />
-        <mark key="^" line="194" column="120" />
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" timestamp="1513470903364">
+        <mark key="'" line="192" column="90" />
+        <mark key="[" line="192" column="124" />
+        <mark key="]" line="192" column="123" />
+        <mark key="." line="192" column="123" />
+        <mark key="^" line="192" column="123" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/config/dev.edn" timestamp="1513470603924">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="24" />
+        <mark key="^" line="4" column="24" />
+        <mark key="." line="4" column="24" />
       </file>
       <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/client.cljs" timestamp="1513061517186">
         <mark key="[" line="4" column="47" />
@@ -49,6 +58,12 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
         <mark key="^" line="40" column="59" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/mutations.clj" timestamp="1513470964574">
+        <mark key="[" line="28" column="1" />
+        <mark key="]" line="28" column="3" />
+        <mark key="^" line="28" column="3" />
+        <mark key="." line="28" column="3" />
       </file>
     </filemarks>
     <jumps>
@@ -85,57 +100,77 @@
       <jump line="128" column="8" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
       <jump line="223" column="53" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
       <jump line="125" column="11" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="164" column="8" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="217" column="70" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="21" column="27" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="139" column="31" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="140" column="32" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="184" column="35" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="220" column="66" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="228" column="57" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="149" column="85" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="203" column="18" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="211" column="2" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="222" column="0" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="231" column="36" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="169" column="52" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="153" column="64" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="165" column="68" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="212" column="65" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="213" column="20" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="90" column="17" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="32" column="2" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="191" column="67" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
+      <jump line="192" column="90" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hs256</text>
+        <text>defmutation</text>
       </register>
       <register name="-" type="4">
-        <text>hs256</text>
+        <text>defmutation</text>
       </register>
       <register name="/" type="4">
-        <text>SessionStore</text>
+        <text>commit</text>
       </register>
-      <register name="0" type="4">
-        <text>(semui/form-field nil
-                                                                      (dom/label nil &quot;Username&quot;)
-                                                                      (semui/input nil))</text>
+      <register name="0" type="2">
+        <text encoding="base64">IDpwcml2YXRlLWtleSAiQzpcXFVzZXJzXFxhemVlbVxcRGV2XFxyZW1hcmstd2ViXFxyZXNvdXJjZXNcXGtleXNcXHByaXZhdGUucGVtIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOnByaXZhdGUta2V5IHByaXZhdGUta2V5Cg==</text>
+        <text encoding="base64">ICAgICh0aW1icmUvZGVidWcgIlN0YXJ0aW5nIEtleVN0b3JlLCBwdWJsaWMta2V5ID0gIiBjb25maWcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByaXZhdGUta2V5IChiZGtleXMvcHJpdmF0ZS1rZXkgKDpwcml2YXRlLWtleSBjb25maWcpKV0K</text>
+        <text encoding="base64">ICAgICh0aW1icmUvZGVidWcgIlN0YXJ0ZWQgS2V5U3RvcmUiKSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHB1YmxpYy1rZXkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIChzZXNzaW9uL3dyYXAtc2Vzc2lvbiB7OnN0b3JlIHNlc3Npb24tc3RvcmV9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOnNlc3Npb24tc3RvcmUgICAgICAgICAgICAgICAobWFwLT5TZXNzaW9uU3RvcmUge30pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6c2Vzc2lvbi1zdG9yZSA6c2Vzc2lvbi1zdG9yZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIChsZXQgW3s6a2V5cyBbdmFsdWVdfV0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">OyBBIHBsYWNlIHRvIHB1dCB1c2VyJ3Mgc2Vzc2lvbnMuIFNlZSBSaW5nIHdyYXAtc2Vzc2lvbi4KOyBXZSBjb3VsZCB1c2UgUmluZydzIGluIG1lbW9yeSBzZXNzaW9uIHN0b3JlLCBidXQgdGhpcyBvbmUgaXMgYSBjb21wb25lbnQgdGhhdCB3aWxsIHJlc2V0IG9uIHNlcnZlciByZXN0YXJ0cwooZGVmcmVjb3JkIFNlc3Npb25TdG9yZSBbbWVtb3J5LXN0b3JlXQogIHN0b3JlL1Nlc3Npb25TdG9yZQogIChyZWFkLXNlc3Npb24gW18ga2V5XQogICAgKGdldCBAbWVtb3J5LXN0b3JlIGtleSkpCiAgKHdyaXRlLXNlc3Npb24gW18ga2V5IGRhdGFdCiAgICAobGV0IFtrZXkgKG9yIGtleSAodXRpbC91bmlxdWUta2V5KSldCiAgICAgIChzd2FwISBtZW1vcnktc3RvcmUgYXNzb2Mga2V5IGRhdGEpCiAgICAgIGtleSkpCiAgKGRlbGV0ZS1zZXNzaW9uIFtfIGtleV0KICAgIChzd2FwISBtZW1vcnktc3RvcmUgZGlzc29jIGtleSkKICAgIG5pbCkKICBjb21wb25lbnQvTGlmZWN5Y2xlCiAgKHN0YXJ0IFt0aGlzXSAoYXNzb2MgdGhpcyA6bWVtb3J5LXN0b3JlIChhdG9tIHt9KSkpCiAgKHN0b3AgW3RoaXNdIHRoaXMpKQo=</text>
+        <text encoding="base64">IDpwdWJsaWMta2V5ICJjbGFzc3BhdGg6a2V5cy9wdWJsaWMucGVtIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgKHRpbWJyZS9kZWJ1ZyAiPj4+IGNvbmZpZyA9ICIgY29uZmlnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOnByaXZhdGUta2V5IHByaXZhdGUta2V5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgKHRpbWJyZS9kZWJ1ZyAiPj4+IGNvbmZpZyA9ICIgY29uZmlnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHByaXZhdGUta2V5IChiZGtleXMvcHJpdmF0ZS1rZXkgKDpwcml2YXRlLWtleSBjb25maWcpKV0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHB1YmxpYy1rZXkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>SessionStore</last-search>
+      <last-search>commit</last-search>
       <last-offset />
-      <last-pattern>SessionStore</last-pattern>
+      <last-pattern>commit</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -154,6 +189,12 @@
         <entry>config</entry>
         <entry>APIModule</entry>
         <entry>SessionStore</entry>
+        <entry>keys</entry>
+        <entry>keystore</entry>
+        <entry>KeyStore</entry>
+        <entry>session-store</entry>
+        <entry>dbs</entry>
+        <entry>commit</entry>
       </history-search>
       <history-cmd>
         <entry>vsplit</entry>
