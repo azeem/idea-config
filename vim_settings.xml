@@ -72,11 +72,11 @@
         <mark key="^" line="4" column="46" />
         <mark key="." line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/mutations.clj" timestamp="1513600810796">
-        <mark key="[" line="36" column="34" />
-        <mark key="]" line="36" column="33" />
-        <mark key="." line="36" column="33" />
-        <mark key="^" line="36" column="33" />
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/mutations.clj" timestamp="1513602240262">
+        <mark key="[" line="36" column="70" />
+        <mark key="]" line="36" column="84" />
+        <mark key="." line="36" column="84" />
+        <mark key="^" line="36" column="84" />
       </file>
     </filemarks>
     <jumps>
