@@ -11,12 +11,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" timestamp="1513578862696">
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" timestamp="1513591776831">
         <mark key="'" line="210" column="19" />
-        <mark key="[" line="228" column="36" />
-        <mark key="]" line="228" column="40" />
-        <mark key="." line="228" column="40" />
-        <mark key="^" line="228" column="40" />
+        <mark key="[" line="198" column="51" />
+        <mark key="]" line="198" column="50" />
+        <mark key="." line="198" column="50" />
+        <mark key="^" line="198" column="50" />
       </file>
       <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/semui.cljc" timestamp="1512793914097">
         <mark key="[" line="22" column="29" />
@@ -24,7 +24,7 @@
         <mark key="." line="23" column="27" />
         <mark key="^" line="23" column="27" />
       </file>
-      <file name="/REPL.clj" timestamp="1513578167179">
+      <file name="/REPL.clj" timestamp="1513593440708">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" timestamp="1512553698121">
@@ -39,6 +39,12 @@
         <mark key="]" line="192" column="123" />
         <mark key="." line="192" column="123" />
         <mark key="^" line="192" column="123" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/db/user_db.clj" timestamp="1513593717759">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="11" />
+        <mark key="^" line="12" column="11" />
+        <mark key="." line="12" column="11" />
       </file>
       <file name="$USER_HOME$/Dev/remark-web/src/main/config/dev.edn" timestamp="1513470603924">
         <mark key="[" line="4" column="17" />
@@ -59,11 +65,11 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="40" column="59" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/mutations.clj" timestamp="1513578680933">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="27" column="3" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/mutations.clj" timestamp="1513594051827">
+        <mark key="[" line="29" column="29" />
+        <mark key="]" line="29" column="29" />
+        <mark key="." line="29" column="29" />
+        <mark key="^" line="29" column="29" />
       </file>
     </filemarks>
     <jumps>
@@ -126,61 +132,61 @@
       <jump line="225" column="48" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
       <jump line="228" column="37" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
       <jump line="210" column="19" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="9" column="0" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/db/user_db.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>defmutation</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
-        <text>dbs</text>
+        <text>password</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IDpwcml2YXRlLWtleSAiQzpcXFVzZXJzXFxhemVlbVxcRGV2XFxyZW1hcmstd2ViXFxyZXNvdXJjZXNcXGtleXNcXHByaXZhdGUucGVtIgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">KGxldCBbcXVlcnkgKC0+IChzZWxlY3QgOiVjb3VudC4qKQogICAgICAgICAgICAgICAgICAgIChmcm9tIDp1c2VyXykKICAgICAgICAgICAgICAgICAgICAod2hlcmUgWzo9IDp1c2VybmFtZSB1c2VybmFtZV0pCiAgICAgICAgICAgICAgICAgICAgc3FsL2Zvcm1hdCkKICAgICAgICAgIGNvdW50ICg6Y291bnQgKGZpcnN0IChqZGJjL3F1ZXJ5IGRic3BlYyBxdWVyeSkpKV0KICAgICAgKD4gY291bnQgMCkp</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KGRlZikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOyBUT0RPOiByZXBsYWNlIGRicyB3aGVuIGludGVybmV0IGlzIGJhY2sgb25saW5lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICh0aW1icmUvZGVidWcgIlN0YXJ0aW5nIEtleVN0b3JlLCBwdWJsaWMta2V5ID0gIiBjb25maWcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICh0aW1icmUvZGVidWcgIlN0YXJ0ZWQgS2V5U3RvcmUiKSkpCg==</text>
+        <text encoding="base64">KGRlZm4gb2xkLXVzZXJuYW1lLWV4aXN0cz8gW2RicyB1c2VybmFtZV0KICAoaWYtbGV0IFtkYnNwZWMgKGZzcWwvZ2V0LWRic3BlYyBkYnMgOnJlbWFya2RiKV0KICAgIChsZXQgW3F1ZXJ5ICgtPiAoc2VsZWN0IDolY291bnQuKikKICAgICAgICAgICAgICAgICAgICAoZnJvbSA6dXNlcl8pCiAgICAgICAgICAgICAgICAgICAgKHdoZXJlIFs6PSA6dXNlcm5hbWUgdXNlcm5hbWVdKQogICAgICAgICAgICAgICAgICAgIHNxbC9mb3JtYXQpCiAgICAgICAgICBjb3VudCAoOmNvdW50IChmaXJzdCAoamRiYy9xdWVyeSBkYnNwZWMgcXVlcnkpKSldCiAgICAgICg+IGNvdW50IDApKQogICAgKHRpbWJyZS9lcnJvciAiVW5hYmxlIHRvIGdldCBkYnNwZWMiKSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIChzZXNzaW9uL3dyYXAtc2Vzc2lvbiB7OnN0b3JlIHNlc3Npb24tc3RvcmV9KQo=</text>
+        <text encoding="base64">ICAgICAgKHRpbWJyZS9kZWJ1ZyAiVGVzdCIpKSkpIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6c2Vzc2lvbi1zdG9yZSA6c2Vzc2lvbi1zdG9yZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIChsZXQgW3s6a2V5cyBbdmFsdWVdfV0pCg==</text>
+        <text encoding="base64">KGRlZm4gd2l0aC1yZW1hcmtkYiBbZGJzIGZuXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IDpwdWJsaWMta2V5ICJjbGFzc3BhdGg6a2V5cy9wdWJsaWMucGVtIgo=</text>
+        <text encoding="base64">ICAoaWYtbGV0IFtkYnNwZWMgKGZzcWwvZ2V0LWRic3BlYyBkYnMgOnJlbWFya2RiKV0KICAgIChmbiBkYnNwZWMpKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dbs</last-search>
+      <last-search>password</last-search>
       <last-offset />
-      <last-pattern>dbs</last-pattern>
+      <last-pattern>password</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>already</entry>
         <entry>Already</entry>
         <entry>update-form-error</entry>
         <entry>defmutation</entry>
@@ -200,6 +206,7 @@
         <entry>TODO</entry>
         <entry>KeyStore</entry>
         <entry>dbs</entry>
+        <entry>password</entry>
       </history-search>
       <history-cmd>
         <entry>vsplit</entry>
