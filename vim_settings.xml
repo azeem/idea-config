@@ -12,12 +12,12 @@
         <mark key="^" line="5" column="8" />
         <mark key="." line="5" column="8" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" timestamp="1513591776831">
-        <mark key="'" line="210" column="19" />
-        <mark key="[" line="198" column="51" />
-        <mark key="]" line="198" column="50" />
-        <mark key="." line="198" column="50" />
-        <mark key="^" line="198" column="50" />
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" timestamp="1513600367834">
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="163" column="93" />
+        <mark key="]" line="163" column="92" />
+        <mark key="." line="163" column="92" />
+        <mark key="^" line="163" column="92" />
       </file>
       <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" timestamp="1512553698121">
         <mark key="[" line="55" column="19" />
@@ -32,11 +32,12 @@
         <mark key="." line="192" column="123" />
         <mark key="^" line="192" column="123" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/db/user_db.clj" timestamp="1513599220047">
-        <mark key="[" line="43" column="50" />
-        <mark key="]" line="43" column="50" />
-        <mark key="." line="43" column="50" />
-        <mark key="^" line="43" column="50" />
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/db/user_db.clj" timestamp="1513600272719">
+        <mark key="'" line="25" column="16" />
+        <mark key="[" line="45" column="37" />
+        <mark key="]" line="45" column="36" />
+        <mark key="." line="45" column="36" />
+        <mark key="^" line="45" column="36" />
       </file>
       <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" timestamp="1513061125067">
         <mark key="'" line="60" column="84" />
@@ -71,11 +72,11 @@
         <mark key="^" line="4" column="46" />
         <mark key="." line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/mutations.clj" timestamp="1513594051827">
-        <mark key="[" line="29" column="29" />
-        <mark key="]" line="29" column="29" />
-        <mark key="." line="29" column="29" />
-        <mark key="^" line="29" column="29" />
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/mutations.clj" timestamp="1513600810796">
+        <mark key="[" line="36" column="34" />
+        <mark key="]" line="36" column="33" />
+        <mark key="." line="36" column="33" />
+        <mark key="^" line="36" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -138,63 +139,74 @@
       <jump line="225" column="48" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
       <jump line="228" column="37" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
       <jump line="210" column="19" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
-      <jump line="9" column="0" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/db/user_db.clj" />
+      <jump line="77" column="0" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="41" column="43" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/db/user_db.clj" />
+      <jump line="43" column="36" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/db/user_db.clj" />
+      <jump line="0" column="23" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/db/user_db.clj" />
+      <jump line="5" column="30" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/db/user_db.clj" />
+      <jump line="9" column="21" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/db/user_db.clj" />
+      <jump line="10" column="46" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/db/user_db.clj" />
+      <jump line="11" column="13" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/db/user_db.clj" />
+      <jump line="12" column="55" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/db/user_db.clj" />
+      <jump line="15" column="24" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/db/user_db.clj" />
+      <jump line="16" column="17" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/db/user_db.clj" />
+      <jump line="17" column="9" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/db/user_db.clj" />
+      <jump line="22" column="45" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/db/user_db.clj" />
+      <jump line="25" column="16" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/db/user_db.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAoaWYgKEJDcnlwdC9jaGVja3B3IHBhc3N3b2QgKDpwYXNzd29yZCB1c2VyKSkKICAgICAgICAgIHVzZXIpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>password</text>
+        <text>db</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">KGRlZm4gb2xkLWFkZC11c2VyIFtkYnMgezprZXlzIFtkYi9pZF0gOmFzIHVzZXJ9XQogIChpZi1sZXQgW2Ric3BlYyAoZnNxbC9nZXQtZGJzcGVjIGRicyA6cmVtYXJrZGIpXQogICAgKGxldCBbdXNlcm5hbWUgKDp1c2VyL3VzZXJuYW1lIHVzZXIpCiAgICAgICAgICBwYXNzd29yZCAoOnVzZXIvcGFzc3dvcmQgdXNlcikKICAgICAgICAgIHBhc3N3b3JkLWhhc2ggKEJDcnlwdC9oYXNocHcgcGFzc3dvcmQgKEJDcnlwdC9nZW5zYWx0KSkKICAgICAgICAgIHJvd3MgKGpkYmMvaW5zZXJ0ISBkYnNwZWMgOnVzZXJfIHs6dXNlcm5hbWUgdXNlcm5hbWUgOnBhc3N3b3JkIHBhc3N3b3JkLWhhc2h9KQogICAgICAgICAgbmV3LXVzZXIgKGZpcnN0IHJvd3MpXQogICAgICAodGltYnJlL2RlYnVnICJOZXcgVXNlciBBZGRlZCIgbmV3LXVzZXIpCiAgICAgIHtpZCAoOmlkIG5ldy11c2VyKX0pCiAgICAodGltYnJlL2Vycm9yICJVbmFibGUgdG8gZ2V0IGRic3BlYyIpKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAoaWYgKEJDcnlwdC9jaGVja3B3IHBhc3N3b2QgKDpwYXNzd29yZCB1c2VyKSkKICAgICAgICAgIHVzZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAobGV0IHAgW10pKSkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KGRlZm4gZ2V0LXVzZXIgW2RicyB1c2VybmFtZSBwYXNzd29yZF0KICAoaWYtbGV0IFtkYnNwZWMgKGZzcWwvZ2V0LWRic3BlYyBkYnMgOnJlbWFya2RiKV0KICAgICh0aW1icmUvZGVidWcgIkNoZWNraW5nIFVzZXIiKQogICAgKHRpbWJyZS9lcnJvciAiVW5hYmxlIHRvIGdldCBkYnNwZWMiKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAoaWYgKEJDcnlwdC9jaGVja3B3IHBhc3N3b2QgKDpwYXNzd29yZCB1c2VyKSkKICAgICAgICAgIHVzZXIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KGRlZm4gb2xkLWFkZC11c2VyIFtkYnMgezprZXlzIFtkYi9pZF0gOmFzIHVzZXJ9XQogIChpZi1sZXQgW2Ric3BlYyAoZnNxbC9nZXQtZGJzcGVjIGRicyA6cmVtYXJrZGIpXQogICAgKGxldCBbdXNlcm5hbWUgKDp1c2VyL3VzZXJuYW1lIHVzZXIpCiAgICAgICAgICBwYXNzd29yZCAoOnVzZXIvcGFzc3dvcmQgdXNlcikKICAgICAgICAgIHBhc3N3b3JkLWhhc2ggKEJDcnlwdC9oYXNocHcgcGFzc3dvcmQgKEJDcnlwdC9nZW5zYWx0KSkKICAgICAgICAgIHJvd3MgKGpkYmMvaW5zZXJ0ISBkYnNwZWMgOnVzZXJfIHs6dXNlcm5hbWUgdXNlcm5hbWUgOnBhc3N3b3JkIHBhc3N3b3JkLWhhc2h9KQogICAgICAgICAgbmV3LXVzZXIgKGZpcnN0IHJvd3MpXQogICAgICAodGltYnJlL2RlYnVnICJOZXcgVXNlciBBZGRlZCIgbmV3LXVzZXIpCiAgICAgIHtpZCAoOmlkIG5ldy11c2VyKX0pCiAgICAodGltYnJlL2Vycm9yICJVbmFibGUgdG8gZ2V0IGRic3BlYyIpKSkKCg==</text>
+        <text encoding="base64">KGRlZm4gZ2V0LXVzZXIgW2RicyB1c2VybmFtZSBwYXNzd29yZF0KICAoaWYtbGV0IFtkYnNwZWMgKGZzcWwvZ2V0LWRic3BlYyBkYnMgOnJlbWFya2RiKV0KICAgICh0aW1icmUvZGVidWcgIkNoZWNraW5nIFVzZXIiKQogICAgKHRpbWJyZS9lcnJvciAiVW5hYmxlIHRvIGdldCBkYnNwZWMiKSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAodGltYnJlL2Vycm9yICJVbmFibGUgdG8gZ2V0IGRic3BlYyIpKSkK</text>
+        <text encoding="base64">KGRlZm4gb2xkLWFkZC11c2VyIFtkYnMgezprZXlzIFtkYi9pZF0gOmFzIHVzZXJ9XQogIChpZi1sZXQgW2Ric3BlYyAoZnNxbC9nZXQtZGJzcGVjIGRicyA6cmVtYXJrZGIpXQogICAgKGxldCBbdXNlcm5hbWUgKDp1c2VyL3VzZXJuYW1lIHVzZXIpCiAgICAgICAgICBwYXNzd29yZCAoOnVzZXIvcGFzc3dvcmQgdXNlcikKICAgICAgICAgIHBhc3N3b3JkLWhhc2ggKEJDcnlwdC9oYXNocHcgcGFzc3dvcmQgKEJDcnlwdC9nZW5zYWx0KSkKICAgICAgICAgIHJvd3MgKGpkYmMvaW5zZXJ0ISBkYnNwZWMgOnVzZXJfIHs6dXNlcm5hbWUgdXNlcm5hbWUgOnBhc3N3b3JkIHBhc3N3b3JkLWhhc2h9KQogICAgICAgICAgbmV3LXVzZXIgKGZpcnN0IHJvd3MpXQogICAgICAodGltYnJlL2RlYnVnICJOZXcgVXNlciBBZGRlZCIgbmV3LXVzZXIpCiAgICAgIHtpZCAoOmlkIG5ldy11c2VyKX0pCiAgICAodGltYnJlL2Vycm9yICJVbmFibGUgdG8gZ2V0IGRic3BlYyIpKSkKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ago=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAodGltYnJlL2Vycm9yICJVbmFibGUgdG8gZ2V0IGRic3BlYyIpKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ago=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KGRlZm4gYWRkLXVzZXIgW2RicyB7OmtleXMgW2RiL2lkXSA6YXMgdXNlcn1dKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">KGRlZm4gYWRkLXVzZXIgW2Ric10pCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">KGRlZm4gYWRkLXVzZXIgW2RicyB7OmtleXMgW2RiL2lkXSA6YXMgdXNlcn1dKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">KGRlZm4gYWRkLXVzZXIgW2Ric10pCg==</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vsplit</text>
       </register>
     </registers>
     <search>
-      <last-search>password</last-search>
+      <last-search>db</last-search>
       <last-offset />
-      <last-pattern>password</last-pattern>
+      <last-pattern>db</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Already</entry>
-        <entry>update-form-error</entry>
         <entry>defmutation</entry>
         <entry>field</entry>
         <entry>Woohoo</entry>
@@ -213,10 +225,12 @@
         <entry>KeyStore</entry>
         <entry>dbs</entry>
         <entry>password</entry>
+        <entry>private</entry>
+        <entry>db</entry>
       </history-search>
       <history-cmd>
-        <entry>vsplit</entry>
         <entry>w</entry>
+        <entry>vsplit</entry>
       </history-cmd>
       <history-expr />
       <history-input />
