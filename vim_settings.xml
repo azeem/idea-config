@@ -32,12 +32,11 @@
         <mark key="." line="192" column="123" />
         <mark key="^" line="192" column="123" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/db/user_db.clj" timestamp="1513626317387">
-        <mark key="'" line="37" column="8" />
-        <mark key="[" line="40" column="18" />
-        <mark key="]" line="41" column="1" />
-        <mark key="." line="41" column="1" />
-        <mark key="^" line="41" column="1" />
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/db/user_db.clj" timestamp="1513725131058">
+        <mark key="[" line="33" column="38" />
+        <mark key="]" line="33" column="37" />
+        <mark key="." line="33" column="37" />
+        <mark key="^" line="33" column="37" />
       </file>
       <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" timestamp="1513061125067">
         <mark key="'" line="60" column="84" />
@@ -72,11 +71,12 @@
         <mark key="^" line="4" column="46" />
         <mark key="." line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/mutations.clj" timestamp="1513626158278">
-        <mark key="[" line="42" column="42" />
-        <mark key="]" line="42" column="41" />
-        <mark key="." line="42" column="41" />
-        <mark key="^" line="42" column="41" />
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/mutations.clj" timestamp="1513725157847">
+        <mark key="'" line="41" column="49" />
+        <mark key="[" line="51" column="42" />
+        <mark key="]" line="51" column="49" />
+        <mark key="." line="51" column="49" />
+        <mark key="^" line="51" column="49" />
       </file>
     </filemarks>
     <jumps>
@@ -156,61 +156,68 @@
       <jump line="165" column="27" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
       <jump line="31" column="33" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
       <jump line="37" column="8" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/db/user_db.clj" />
+      <jump line="0" column="27" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/mutations.clj" />
+      <jump line="11" column="17" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/mutations.clj" />
+      <jump line="32" column="23" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/mutations.clj" />
+      <jump line="42" column="26" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/mutations.clj" />
+      <jump line="5" column="31" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/mutations.clj" />
+      <jump line="38" column="24" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/mutations.clj" />
+      <jump line="39" column="16" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/mutations.clj" />
+      <jump line="41" column="49" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/mutations.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text encoding="base64">dXNlciA=</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">dXNlciA=</text>
       </register>
       <register name="/" type="4">
-        <text>cookies</text>
+        <text>dbs</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">KGRlZm4gb2xkLWFkZC11c2VyIFtkYnMgezprZXlzIFtkYi9pZF0gOmFzIHVzZXJ9XQogIChpZi1sZXQgW2Ric3BlYyAoZnNxbC9nZXQtZGJzcGVjIGRicyA6cmVtYXJrZGIpXQogICAgKGxldCBbdXNlcm5hbWUgKDp1c2VyL3VzZXJuYW1lIHVzZXIpCiAgICAgICAgICBwYXNzd29yZCAoOnVzZXIvcGFzc3dvcmQgdXNlcikKICAgICAgICAgIHBhc3N3b3JkLWhhc2ggKEJDcnlwdC9oYXNocHcgcGFzc3dvcmQgKEJDcnlwdC9nZW5zYWx0KSkKICAgICAgICAgIHJvd3MgKGpkYmMvaW5zZXJ0ISBkYnNwZWMgOnVzZXJfIHs6dXNlcm5hbWUgdXNlcm5hbWUgOnBhc3N3b3JkIHBhc3N3b3JkLWhhc2h9KQogICAgICAgICAgbmV3LXVzZXIgKGZpcnN0IHJvd3MpXQogICAgICAodGltYnJlL2RlYnVnICJOZXcgVXNlciBBZGRlZCIgbmV3LXVzZXIpCiAgICAgIHtpZCAoOmlkIG5ldy11c2VyKX0pCiAgICAodGltYnJlL2Vycm9yICJVbmFibGUgdG8gZ2V0IGRic3BlYyIpKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICh3cmFwLXNlc3MpCg==</text>
+        <text encoding="base64">ICAgIHVzZXIpIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICh0aW1icmUvZGVidWcgIiIpKSkpKQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">KSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAobGV0IHAgW10pKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAoaWYgKEJDcnlwdC9jaGVja3B3IHBhc3N3b2QgKDpwYXNzd29yZCB1c2VyKSkKICAgICAgICAgIHVzZXIpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">KGRlZm4gZ2V0LXVzZXIgW2RicyB1c2VybmFtZSBwYXNzd29yZF0KICAoaWYtbGV0IFtkYnNwZWMgKGZzcWwvZ2V0LWRic3BlYyBkYnMgOnJlbWFya2RiKV0KICAgICh0aW1icmUvZGVidWcgIkNoZWNraW5nIFVzZXIiKQogICAgKHRpbWJyZS9lcnJvciAiVW5hYmxlIHRvIGdldCBkYnNwZWMiKSkpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">KGRlZm4gb2xkLWFkZC11c2VyIFtkYnMgezprZXlzIFtkYi9pZF0gOmFzIHVzZXJ9XQogIChpZi1sZXQgW2Ric3BlYyAoZnNxbC9nZXQtZGJzcGVjIGRicyA6cmVtYXJrZGIpXQogICAgKGxldCBbdXNlcm5hbWUgKDp1c2VyL3VzZXJuYW1lIHVzZXIpCiAgICAgICAgICBwYXNzd29yZCAoOnVzZXIvcGFzc3dvcmQgdXNlcikKICAgICAgICAgIHBhc3N3b3JkLWhhc2ggKEJDcnlwdC9oYXNocHcgcGFzc3dvcmQgKEJDcnlwdC9nZW5zYWx0KSkKICAgICAgICAgIHJvd3MgKGpkYmMvaW5zZXJ0ISBkYnNwZWMgOnVzZXJfIHs6dXNlcm5hbWUgdXNlcm5hbWUgOnBhc3N3b3JkIHBhc3N3b3JkLWhhc2h9KQogICAgICAgICAgbmV3LXVzZXIgKGZpcnN0IHJvd3MpXQogICAgICAodGltYnJlL2RlYnVnICJOZXcgVXNlciBBZGRlZCIgbmV3LXVzZXIpCiAgICAgIHtpZCAoOmlkIG5ldy11c2VyKX0pCiAgICAodGltYnJlL2Vycm9yICJVbmFibGUgdG8gZ2V0IGRic3BlYyIpKSkKCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAodGltYnJlL2Vycm9yICJVbmFibGUgdG8gZ2V0IGRic3BlYyIpKSkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ago=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CihkZWZuIHdpdGgtcmVtYXJrZGIgW2RicyBib2R5LWZuXQogIChpZi1sZXQgW2Ric3BlYyAoZnNxbC9nZXQtZGJzcGVjIGRicyA6cmVtYXJrZGIpXQogICAgKGJvZHktZm4gZGJzcGVjKQogICAgKHRocm93IChFeGNlcHRpb24uICJVbmFibGUgdG8gZ2V0IGRic3BlYyBmb3IgcmVtYXJrZGIiKSkpKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAod2l0aC1yZW1hcmtkYiBkYnMKICAgIChmbiBbZGJzcGVjXQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBbZGJzIGlkXQogICh3aXRoLXJlbWFya2RiCiAgICBkYnMKICAgIChmbiBbZGJzcGVjXSkpCgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAod2l0aC1yZW1hcmtkYiBkYnMKICAgIChmbiBbZGJzcGVjXQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAod2l0aC1yZW1hcmtkYiBkYnMKICAgIChmbiBbZGJzcGVjXQo=</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vsplit</text>
       </register>
     </registers>
     <search>
-      <last-search>cookies</last-search>
+      <last-search>dbs</last-search>
       <last-offset />
-      <last-pattern>cookies</last-pattern>
+      <last-pattern>dbs</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>field</entry>
         <entry>Woohoo</entry>
         <entry>input</entry>
         <entry>onChange</entry>
@@ -225,15 +232,16 @@
         <entry>commit</entry>
         <entry>TODO</entry>
         <entry>KeyStore</entry>
-        <entry>dbs</entry>
         <entry>password</entry>
         <entry>private</entry>
         <entry>db</entry>
         <entry>cookies</entry>
+        <entry>user-db</entry>
+        <entry>dbs</entry>
       </history-search>
       <history-cmd>
-        <entry>vsplit</entry>
         <entry>w</entry>
+        <entry>vsplit</entry>
       </history-cmd>
       <history-expr />
       <history-input />
