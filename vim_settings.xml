@@ -32,23 +32,29 @@
         <mark key="." line="192" column="123" />
         <mark key="^" line="192" column="123" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/db/user_db.clj" timestamp="1513726858785">
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/db/user_db.clj" timestamp="1513741376687">
         <mark key="[" line="34" column="30" />
         <mark key="]" line="34" column="29" />
         <mark key="." line="34" column="29" />
         <mark key="^" line="34" column="29" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" timestamp="1513728083074">
-        <mark key="'" line="61" column="84" />
-        <mark key="[" line="72" column="99" />
-        <mark key="]" line="72" column="135" />
-        <mark key="." line="72" column="135" />
-        <mark key="^" line="72" column="135" />
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" timestamp="1513741194291">
+        <mark key="'" line="52" column="50" />
+        <mark key="[" line="72" column="98" />
+        <mark key="]" line="72" column="106" />
+        <mark key="." line="72" column="106" />
+        <mark key="^" line="72" column="106" />
       </file>
       <file name="$USER_HOME$/Dev/remark-web/project.clj" timestamp="1513142059298">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="/Dummy.clj" timestamp="1513741687579">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/semui.cljc" timestamp="1512793914097">
         <mark key="[" line="22" column="29" />
@@ -56,8 +62,24 @@
         <mark key="." line="23" column="27" />
         <mark key="^" line="23" column="27" />
       </file>
-      <file name="/REPL.clj" timestamp="1513595575747">
-        <mark key="[" line="0" column="0" />
+      <file name="/REPL.clj" timestamp="1513741145406">
+        <mark key="'" line="0" column="1" />
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/db/util.clj" timestamp="1513741386824">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/read.clj" timestamp="1513741825574">
+        <mark key="[" line="12" column="43" />
+        <mark key="]" line="12" column="45" />
+        <mark key="." line="12" column="45" />
+        <mark key="^" line="12" column="45" />
       </file>
       <file name="$USER_HOME$/Dev/remark-web/src/main/config/dev.edn" timestamp="1513470603924">
         <mark key="[" line="4" column="17" />
@@ -71,12 +93,12 @@
         <mark key="^" line="4" column="46" />
         <mark key="." line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/mutations.clj" timestamp="1513728111897">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="47" column="106" />
-        <mark key="]" line="47" column="105" />
-        <mark key="." line="47" column="105" />
-        <mark key="^" line="47" column="105" />
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/mutations.clj" timestamp="1513741888045">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="31" column="41" />
+        <mark key="]" line="31" column="43" />
+        <mark key="." line="31" column="43" />
+        <mark key="^" line="31" column="43" />
       </file>
     </filemarks>
     <jumps>
@@ -166,46 +188,48 @@
       <jump line="41" column="49" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/mutations.clj" />
       <jump line="53" column="17" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/mutations.clj" />
       <jump line="35" column="0" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/mutations.clj" />
+      <jump line="52" column="50" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" />
+      <jump line="0" column="1" filename="/REPL.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICBkYnMK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dXNlciA=</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>dbs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KGRlZm4gb2xkLWFkZC11c2VyIFtkYnMgezprZXlzIFtkYi9pZF0gOmFzIHVzZXJ9XQogIChpZi1sZXQgW2Ric3BlYyAoZnNxbC9nZXQtZGJzcGVjIGRicyA6cmVtYXJrZGIpXQogICAgKGxldCBbdXNlcm5hbWUgKDp1c2VyL3VzZXJuYW1lIHVzZXIpCiAgICAgICAgICBwYXNzd29yZCAoOnVzZXIvcGFzc3dvcmQgdXNlcikKICAgICAgICAgIHBhc3N3b3JkLWhhc2ggKEJDcnlwdC9oYXNocHcgcGFzc3dvcmQgKEJDcnlwdC9nZW5zYWx0KSkKICAgICAgICAgIHJvd3MgKGpkYmMvaW5zZXJ0ISBkYnNwZWMgOnVzZXJfIHs6dXNlcm5hbWUgdXNlcm5hbWUgOnBhc3N3b3JkIHBhc3N3b3JkLWhhc2h9KQogICAgICAgICAgbmV3LXVzZXIgKGZpcnN0IHJvd3MpXQogICAgICAodGltYnJlL2RlYnVnICJOZXcgVXNlciBBZGRlZCIgbmV3LXVzZXIpCiAgICAgIHtpZCAoOmlkIG5ldy11c2VyKX0pCiAgICAodGltYnJlL2Vycm9yICJVbmFibGUgdG8gZ2V0IGRic3BlYyIpKSkK</text>
+        <text encoding="base64">ICAgIFtyZW1hcmstd2ViLmRiLnVzZXItZGIgOmFzIHVzZXItZGJdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICBkYnMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICh1c2VyLWRiL2dldC11c2VyIGRic3BlYykpXSkpKSkpKQo=</text>
+        <text encoding="base64">KGRlZm4gd2l0aC1yZW1hcmtkYiBbZGJzIGJvZHktZm5dCiAgKGlmLWxldCBbZGJzcGVjIChmc3FsL2dldC1kYnNwZWMgZGJzIDpyZW1hcmtkYildCiAgICAoYm9keS1mbiBkYnNwZWMpCiAgICAodGhyb3cgKEV4Y2VwdGlvbi4gIlVuYWJsZSB0byBnZXQgZGJzcGVjIGZvciByZW1hcmtkYiIpKSkpCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICB0b2tlbiAoZ2V0LWluIHJlcXVlc3QgWzpjb29raWVzICJ0b2tlbiIgOnZhbHVlXSkKICAgICAgICAgICAgICAgICB0b2tlbi1wYXlsb2FkIChpZiAobm90PSB0b2tlbiA6bm90LWZvdW5kKSAoand0L2RlY3J5cHQgdG9rZW4gKDpwcml2YXRlLWtleSBrZXlzdG9yZSkpKQogICAgICAgICAgICAgICAgIHVzZXItaWQgKDp1c2VyLWlkIHRva2VuLXBheWxvYWQpXSkpKSkpKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHVzZXIpIAo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">KSkpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">KGRlZnF1ZXJ5LXJvb3QgOm1lYW5pbmctb2YtbGlmZQogICJSZXR1cm5zIHRoZSBtZWFuaW5nIG9mIGxpZmUuIgogICh2YWx1ZSBbZW52IHBhcmFtc10KICAgICh0aW1icmUvaW5mbyAiVGhpbmtpbmcgYWJvdXQgdGhlIG1lYW5pbmcuLi5obW1tLi4uIikKICAgIChUaHJlYWQvc2xlZXAgMzAwMCkKICAgIDQyKSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICh0aW1icmUvZGVidWcgIkxvZ2dpbmcgaW4gdXNlciAiIHVzZXJuYW1lIHBhc3N3b3JkKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICh0aW1icmUvZGVidWcgIkxvZ2dpbmcgaW4gdXNlciAiIHVzZXJuYW1lIHBhc3N3b3JkKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAodGltYnJlL2RlYnVnICJMb2dnaW5nIGluIHVzZXIgIiB1c2VybmFtZSBwYXNzd29yZCkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CihkZWZuIHdpdGgtcmVtYXJrZGIgW2RicyBib2R5LWZuXQogIChpZi1sZXQgW2Ric3BlYyAoZnNxbC9nZXQtZGJzcGVjIGRicyA6cmVtYXJrZGIpXQogICAgKGJvZHktZm4gZGJzcGVjKQogICAgKHRocm93IChFeGNlcHRpb24uICJVbmFibGUgdG8gZ2V0IGRic3BlYyBmb3IgcmVtYXJrZGIiKSkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAod2l0aC1yZW1hcmtkYiBkYnMKICAgIChmbiBbZGJzcGVjXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICh1c2VyLWRiL2dldC11c2VyIGRic3BlYykpXSkpKSkpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -243,6 +267,7 @@
       </history-search>
       <history-cmd>
         <entry>vsplit</entry>
+        <entry>unsplit</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

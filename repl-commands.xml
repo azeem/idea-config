@@ -1,0 +1,5 @@
+<application>
+  <component name="ReplCommandManager">
+    <repl-command name="Restart Fulcro Server" executionType="EXPRESSION" commandText="(restart)" executeBefore="NONE" executionNs="EXPLICIT_NS" inNamespace="user" />
+  </component>
+</application>

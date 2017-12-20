@@ -104,6 +104,9 @@
   <action id="Cursive.Repl.Command.Restart Fulcro">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
+  <action id="Cursive.Repl.Command.Restart Fulcro Server">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="EditorSelectWord" />
   <action id="EditorTab" />
   <action id="EmacsStyleIndent">
