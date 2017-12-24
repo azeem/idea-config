@@ -62,18 +62,24 @@
         <mark key="." line="23" column="27" />
         <mark key="^" line="23" column="27" />
       </file>
-      <file name="/REPL.clj" timestamp="1514086259304">
+      <file name="/REPL.clj" timestamp="1514093365318">
         <mark key="'" line="0" column="1" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="1" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/db/util.clj" timestamp="1513741386824">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/resources/sql/migrations/V1__initial_setup.sql" timestamp="1514093345065">
+        <mark key="[" line="6" column="118" />
+        <mark key="]" line="6" column="118" />
+        <mark key="^" line="6" column="128" />
+        <mark key="." line="6" column="118" />
       </file>
       <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/read.clj" timestamp="1513741825574">
         <mark key="[" line="12" column="43" />
@@ -93,12 +99,12 @@
         <mark key="^" line="4" column="46" />
         <mark key="." line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/mutations.clj" timestamp="1514086751541">
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/mutations.clj" timestamp="1514093469561">
         <mark key="'" line="35" column="22" />
-        <mark key="[" line="41" column="36" />
-        <mark key="]" line="42" column="13" />
-        <mark key="." line="42" column="13" />
-        <mark key="^" line="42" column="13" />
+        <mark key="[" line="46" column="96" />
+        <mark key="]" line="46" column="95" />
+        <mark key="." line="46" column="95" />
+        <mark key="^" line="46" column="95" />
       </file>
     </filemarks>
     <jumps>
@@ -198,44 +204,44 @@
       <jump line="19" column="16" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICh0aW1icncpCg==</text>
+      <register name="&quot;" type="4">
+        <text>config</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dG9rZW4g</text>
+        <text>config</text>
       </register>
       <register name="/" type="4">
         <text>backend</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFtyZW1hcmstd2ViLmRiLnVzZXItZGIgOmFzIHVzZXItZGJdCg==</text>
+      <register name="0" type="4">
+        <text>(:jwt-secret config) {:alg (:jwt-alg config)})</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICh0aW1icncpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICh0aW1icmUvZGVidWcgIkluc2lkZSBBdXRoLiBDb25maWcgPSAiIGNvbmZpZykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICh0aW1icncpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICB1c2VyIChzb21lLT4gcmVxdWVzdAogICAgICAgICAgICAgICAgICAgICAgICAgKGdldC1pbiBbOmlkZW50aXR5IDp1c2VyLWlkXSBuaWwpCiAgICAgICAgICAgICAgICAgICAgICAgICBnZXQtdXNlcildCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIDp1c2VyLWlkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICB1c2VyIChzb21lLT4gcmVxdWVzdAogICAgICAgICAgICAgICAgICAgICAgICAgKGdldC1pbiBbOmlkZW50aXR5IDp1c2VyLWlkXSBuaWwpCiAgICAgICAgICAgICAgICAgICAgICAgICBnZXQtdXNlcildCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIChqd3QvZGVjcnlwdCAoOnByaXZhdGUta2V5IGtleXN0b3JlKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIDp1c2VyLWlkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAoaWYgKGF1dGgvYXV0aGVudGljYXRlZD8gcmVxdWVzdCkKICAgICAgICAgICAgIChhaXRoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIChqd3QvZGVjcnlwdCAoOnByaXZhdGUta2V5IGtleXN0b3JlKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIChhc3NvYyB1c2VyIDp0b2tlbiB0b2tlbikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAoaWYgKGF1dGgvYXV0aGVudGljYXRlZD8gcmVxdWVzdCkKICAgICAgICAgICAgIChhaXRoKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIChmbGNvcmUvYXVnbWVudC1yZXNwb25zZSB1c2VyIChmbiBbcmVzcF0gKGFzc29jLWluIHJlc3AgWzpjb29raWVzICJ0b2tlbiJdIHs6dmFsdWUgdG9rZW59KSkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIChhc3NvYyB1c2VyIDp0b2tlbiB0b2tlbikpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IDpwcml2YXRlLWtleSAiQzpcXFVzZXJzXFxhemVlbVxcRGV2XFxyZW1hcmstd2ViXFxyZXNvdXJjZXNcXGtleXNcXHByaXZrZXkucGVtIgogOnB1YmxpYy1rZXkgIkM6XFxVc2Vyc1xcYXplZW1cXERldlxccmVtYXJrLXdlYlxccmVzb3VyY2VzXFxrZXlzXFxwdWJrZXkucGVtIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIChmbGNvcmUvYXVnbWVudC1yZXNwb25zZSB1c2VyIChmbiBbcmVzcF0gKGFzc29jLWluIHJlc3AgWzpjb29raWVzICJ0b2tlbiJdIHs6dmFsdWUgdG9rZW59KSkpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
