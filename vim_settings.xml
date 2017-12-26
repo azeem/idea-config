@@ -88,7 +88,6 @@
         <mark key="^" line="6" column="128" />
         <mark key="." line="6" column="118" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/omcljs/om/1.0.0-beta1/om-1.0.0-beta1.jar!/om/next.cljc" timestamp="1514177176925" />
       <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/read.clj" timestamp="1513741825574">
         <mark key="[" line="12" column="43" />
         <mark key="]" line="12" column="45" />
@@ -119,6 +118,11 @@
         <mark key="]" line="41" column="26" />
         <mark key="." line="41" column="26" />
         <mark key="^" line="41" column="26" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web-2/project.clj" timestamp="1514298594091">
+        <mark key="[" line="7" column="46" />
+        <mark key="]" line="7" column="47" />
+        <mark key="." line="7" column="47" />
       </file>
     </filemarks>
     <jumps>
