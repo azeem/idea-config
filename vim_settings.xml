@@ -12,8 +12,8 @@
         <mark key="^" line="5" column="8" />
         <mark key="." line="5" column="8" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" timestamp="1513778084342">
-        <mark key="'" line="19" column="16" />
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" timestamp="1514253699064">
+        <mark key="'" line="83" column="63" />
         <mark key="[" line="154" column="105" />
         <mark key="]" line="154" column="104" />
         <mark key="." line="154" column="104" />
@@ -45,12 +45,12 @@
         <mark key="." line="27" column="28" />
         <mark key="^" line="27" column="28" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" timestamp="1514252358489">
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" timestamp="1514253413859">
         <mark key="'" line="48" column="2" />
-        <mark key="[" line="73" column="66" />
-        <mark key="]" line="73" column="100" />
-        <mark key="." line="73" column="100" />
-        <mark key="^" line="73" column="100" />
+        <mark key="[" line="73" column="55" />
+        <mark key="]" line="73" column="55" />
+        <mark key="." line="73" column="55" />
+        <mark key="^" line="73" column="112" />
       </file>
       <file name="$USER_HOME$/Dev/remark-web/project.clj" timestamp="1513142059298">
         <mark key="[" line="15" column="0" />
@@ -122,9 +122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="52" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
-      <jump line="87" column="35" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
-      <jump line="88" column="37" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
       <jump line="106" column="12" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
       <jump line="99" column="20" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
       <jump line="92" column="39" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
@@ -222,16 +219,19 @@
       <jump line="20" column="75" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
       <jump line="192" column="87" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
       <jump line="48" column="2" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" />
+      <jump line="12" column="19" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="13" column="31" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
+      <jump line="83" column="63" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y2xqcyA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Y2xqcyA=</text>
       </register>
       <register name="/" type="4">
-        <text>rm\/</text>
+        <text>routing</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgW3JlbWFyay13ZWIuYXBpLm11dGF0aW9ucyA6YXMgcm1dCg==</text>
@@ -268,15 +268,14 @@
       </register>
     </registers>
     <search>
-      <last-search>rm\/</last-search>
+      <last-search>routing</last-search>
       <last-offset />
-      <last-pattern>rm\/</last-pattern>
+      <last-pattern>routing</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>SessionStore</entry>
         <entry>keys</entry>
         <entry>session-store</entry>
         <entry>commit</entry>
@@ -296,6 +295,7 @@
         <entry>config</entry>
         <entry>rm</entry>
         <entry>rm\/</entry>
+        <entry>routing</entry>
       </history-search>
       <history-cmd>
         <entry>unsplit</entry>
