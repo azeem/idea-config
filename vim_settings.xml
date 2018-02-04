@@ -91,11 +91,11 @@
         <mark key="^" line="6" column="128" />
         <mark key="." line="6" column="118" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljs" timestamp="1515265036692">
-        <mark key="[" line="20" column="40" />
-        <mark key="]" line="20" column="42" />
-        <mark key="." line="20" column="42" />
-        <mark key="^" line="20" column="42" />
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljs" timestamp="1517765650029">
+        <mark key="[" line="27" column="7" />
+        <mark key="]" line="27" column="28" />
+        <mark key="." line="27" column="28" />
+        <mark key="^" line="27" column="28" />
       </file>
       <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/read.clj" timestamp="1513741825574">
         <mark key="[" line="12" column="43" />
@@ -242,17 +242,17 @@
       <jump line="9" column="4" filename="$USER_HOME$/Dev/remark-web-2/src/main/remark_web/ui/routing.cljc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgW10K</text>
+      <register name="&quot;" type="4">
+        <text>page</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>page</text>
       </register>
       <register name="/" type="4">
         <text>history</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KGRlZm11bHRpIHByZS1yb3V0ZS1ob29rIChmbiBbezprZXlzIFtoYW5kbGVyXSA6YXMgbWF0Y2h9XSBoYW5kbGVyKSkKKGRlZm1ldGhvZCBwcmUtcm91dGUtaG9vayA6ZGVmYXVsdCBbX10gbmlsKQo=</text>
+        <text encoding="base64">ICAgIChmci9tYWtlLXJvdXRlIDphYm91dCBbKGZyL3JvdXRlci1pbnN0cnVjdGlvbiA6cGFnZS1yb3V0ZXIgWzphYm91dCA6cGFnZV0pXSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgW10K</text>
