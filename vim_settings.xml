@@ -91,11 +91,11 @@
         <mark key="^" line="6" column="128" />
         <mark key="." line="6" column="118" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljs" timestamp="1517765650029">
-        <mark key="[" line="27" column="7" />
-        <mark key="]" line="27" column="28" />
-        <mark key="." line="27" column="28" />
-        <mark key="^" line="27" column="28" />
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljs" timestamp="1517765709017">
+        <mark key="[" line="26" column="42" />
+        <mark key="]" line="26" column="56" />
+        <mark key="." line="26" column="56" />
+        <mark key="^" line="26" column="56" />
       </file>
       <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/read.clj" timestamp="1513741825574">
         <mark key="[" line="12" column="43" />
@@ -243,10 +243,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>page</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>page</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>history</text>
