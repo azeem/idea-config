@@ -91,11 +91,11 @@
         <mark key="^" line="6" column="128" />
         <mark key="." line="6" column="118" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljs" timestamp="1517765709017">
-        <mark key="[" line="26" column="42" />
-        <mark key="]" line="26" column="56" />
-        <mark key="." line="26" column="56" />
-        <mark key="^" line="26" column="56" />
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljs" timestamp="1517800959984">
+        <mark key="[" line="47" column="64" />
+        <mark key="]" line="47" column="63" />
+        <mark key="." line="47" column="63" />
+        <mark key="^" line="47" column="63" />
       </file>
       <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/read.clj" timestamp="1513741825574">
         <mark key="[" line="12" column="43" />
@@ -243,10 +243,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>:ui/show-modal (= (namespace handler) &quot;modal&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>:ui/show-modal (= (namespace handler) &quot;modal&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>history</text>
@@ -255,31 +255,31 @@
         <text encoding="base64">ICAgIChmci9tYWtlLXJvdXRlIDphYm91dCBbKGZyL3JvdXRlci1pbnN0cnVjdGlvbiA6cGFnZS1yb3V0ZXIgWzphYm91dCA6cGFnZV0pXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgW10K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgWwo=</text>
+        <text encoding="base64">ICAgW10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgWwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBbXV0K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBbXV0K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">KGRlZm4gc3RhcnQtcm91dGluZyBbYXBwLXJvb3RdCiAgKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAoZG8K</text>
+        <text encoding="base64">KGRlZm4gc3RhcnQtcm91dGluZyBbYXBwLXJvb3RdCiAgKCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KGRlZm4gZG8tYXV0aAogIFtjb21wb25lbnQgdXNlcm5hbWUgcGFzc3dvcmRdCiAgKHRpbWJyZS9kZWJ1ZyAiSW5zaWRlIHNlcnZlcnNpZGUgZG8tYXV0aCIpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAoZG8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
