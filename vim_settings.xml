@@ -16,11 +16,11 @@
         <mark key="." line="154" column="104" />
         <mark key="^" line="154" column="104" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/root.cljs" timestamp="1515257229613">
-        <mark key="[" line="13" column="40" />
-        <mark key="]" line="13" column="39" />
-        <mark key="^" line="13" column="39" />
-        <mark key="." line="13" column="39" />
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/root.cljs" timestamp="1517892920314">
+        <mark key="[" line="21" column="29" />
+        <mark key="]" line="21" column="49" />
+        <mark key="." line="21" column="49" />
+        <mark key="^" line="21" column="49" />
       </file>
       <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" timestamp="1512553698121">
         <mark key="[" line="55" column="19" />
@@ -40,6 +40,12 @@
         <mark key="]" line="34" column="29" />
         <mark key="." line="34" column="29" />
         <mark key="^" line="34" column="29" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/about.cljs" timestamp="1517892582078">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="13" />
+        <mark key="^" line="10" column="13" />
+        <mark key="." line="10" column="13" />
       </file>
       <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/mutations.cljs" timestamp="1514252504865">
         <mark key="'" line="29" column="0" />
@@ -91,17 +97,24 @@
         <mark key="^" line="6" column="128" />
         <mark key="." line="6" column="118" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljs" timestamp="1517800959984">
-        <mark key="[" line="47" column="64" />
-        <mark key="]" line="47" column="63" />
-        <mark key="." line="47" column="63" />
-        <mark key="^" line="47" column="63" />
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljs" timestamp="1517891274947">
+        <mark key="'" line="18" column="6" />
+        <mark key="[" line="85" column="86" />
+        <mark key="]" line="85" column="85" />
+        <mark key="." line="85" column="85" />
+        <mark key="^" line="85" column="85" />
       </file>
       <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/api/read.clj" timestamp="1513741825574">
         <mark key="[" line="12" column="43" />
         <mark key="]" line="12" column="45" />
         <mark key="." line="12" column="45" />
         <mark key="^" line="12" column="45" />
+      </file>
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/home.cljs" timestamp="1517892490887">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="28" />
+        <mark key="^" line="10" column="28" />
+        <mark key="." line="10" column="28" />
       </file>
       <file name="$USER_HOME$/Dev/remark-web/src/main/config/dev.edn" timestamp="1513777941255">
         <mark key="[" line="2" column="30" />
@@ -114,11 +127,11 @@
         <mark key="[" line="26" column="0" />
         <mark key="]" line="27" column="42" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/client.cljs" timestamp="1513061517186">
-        <mark key="[" line="4" column="47" />
-        <mark key="]" line="4" column="46" />
-        <mark key="^" line="4" column="46" />
-        <mark key="." line="4" column="46" />
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/client.cljs" timestamp="1517891473091">
+        <mark key="[" line="8" column="72" />
+        <mark key="]" line="8" column="71" />
+        <mark key="^" line="8" column="71" />
+        <mark key="." line="8" column="71" />
       </file>
       <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/util/auth.cljs" timestamp="1514168007967">
         <mark key="[" line="0" column="28" />
@@ -140,14 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="20" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
-      <jump line="92" column="39" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
-      <jump line="98" column="11" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
-      <jump line="104" column="35" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
-      <jump line="48" column="2" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljc" />
-      <jump line="29" column="29" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" />
-      <jump line="56" column="88" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" />
-      <jump line="10" column="0" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" />
       <jump line="4" column="0" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" />
       <jump line="23" column="65" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" />
       <jump line="28" column="2" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljc" />
@@ -240,62 +245,69 @@
       <jump line="13" column="31" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
       <jump line="83" column="63" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" />
       <jump line="9" column="4" filename="$USER_HOME$/Dev/remark-web-2/src/main/remark_web/ui/routing.cljc" />
+      <jump line="22" column="0" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljs" />
+      <jump line="31" column="10" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljs" />
+      <jump line="32" column="11" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljs" />
+      <jump line="10" column="65" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljs" />
+      <jump line="24" column="16" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljs" />
+      <jump line="58" column="30" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljs" />
+      <jump line="59" column="5" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljs" />
+      <jump line="18" column="6" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:ui/show-modal (= (namespace handler) &quot;modal&quot;)</text>
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>:ui/show-modal (= (namespace handler) &quot;modal&quot;)</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
-        <text>history</text>
+        <text>om</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIChmci9tYWtlLXJvdXRlIDphYm91dCBbKGZyL3JvdXRlci1pbnN0cnVjdGlvbiA6cGFnZS1yb3V0ZXIgWzphYm91dCA6cGFnZV0pXSkK</text>
+        <text encoding="base64">KGRlZnJvdXRlciBQYWdlUm91dGVyIDpwYWdlLXJvdXRlcgogICAgICAgICAgIChpZGVudCBbdGhpcyBwcm9wc10gWyg6cGFnZSBwcm9wcykgOnBhZ2VdKQogICAgICAgICAgIDpob21lIHJ3LWhvbWUvSG9tZQogICAgICAgICAgIDphYm91dCBydy1hYm91dC9BYm91dCkKKGRlZiB1aS1wYWdlLXJvdXRlciAoZnAvZmFjdG9yeSBQYWdlUm91dGVyKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIFtmdWxjcm8uY2xpZW50Ll0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgW10K</text>
+        <text encoding="base64">OzsgVGhlIG1haW4gVUkgb2YgeW91ciBhcHBsaWNhdGlvbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgWwo=</text>
+        <text encoding="base64">ICAgIFtmdWxjcm8uaTE4biA6cmVmZXIgW3RyIHRyZl1dKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFtyZW1hcmstd2ViLmFwaS5tdXRhdGlvbnMgOmFzIGFwaV0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFtyZW1hcmstd2ViLmFwaS5tdXRhdGlvbnMgOmFzIGFwaV0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBbXV0K</text>
+        <text encoding="base64">ICAgIFtmdWxjcm8uY2xpZW50Lm11dGF0aW9ucyA6YXMgbV0KICAgIFtmdWxjcm8uY2xpZW50LmRhdGEtZmV0Y2ggOmFzIGRmXQogICAgdHJhbnNsYXRpb25zLmVzICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA7IHByZWxvYWQgdHJhbnNsYXRpb25zIGJ5IHJlcXVpcmluZyB0aGVpciBuYW1lc3BhY2UuIFNlZSBNYWtlZmlsZSBmb3IgZXh0cmFjdGlvbi9nZW5lcmF0aW9uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">KGRlZm4gc3RhcnQtcm91dGluZyBbYXBwLXJvb3RdCiAgKCkpCg==</text>
+      <register name="8" type="4">
+        <text>{:keys [handler]} match
+                                            pre-hook-val (pre-route-hook match)</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAoZG8K</text>
+      <register name="9" type="4">
+        <text encoding="base64">KGxldCBbezprZXlzIFtoYW5kbGVyXX0gbWF0Y2gKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcmUtaG9vay12YWwgKHByZS1yb3V0ZS1ob29rIG1hdGNoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlzLXJlZGlyZWN0IChvciAoc3RyaW5nPyBwcmUtaG9vay12YWwpIChtYXA/IHByZS1ob29rLXZhbCkpXQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGlmIGlzLXJlZGlyZWN0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChuYXYtdG8hIGFwcC1yb290IHByZS1ob29rLXZhbCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGZwL3RyYW5zYWN0ISBhcHAtcm9vdAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChjb25kLT4gW10KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChzeW1ib2w/IHByZS1ob29rLXZhbCkgKGNvbmogKGxpc3QgcHJlLWhvb2stdmFsIG1hdGNoKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDphbHdheXMgKGNvbmogYChzZXQtcm91dGUhIH5tYXRjaCkgOnBhZ2Utcm91dGVyIDptb2RhbC1yb3V0ZXIpKSkpKQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>history</last-search>
+      <last-search>om</last-search>
       <last-offset />
-      <last-pattern>history</last-pattern>
+      <last-pattern>om</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>commit</entry>
-        <entry>TODO</entry>
         <entry>KeyStore</entry>
         <entry>password</entry>
         <entry>private</entry>
@@ -314,11 +326,13 @@
         <entry>routing</entry>
         <entry>pushy</entry>
         <entry>history</entry>
+        <entry>pre-route</entry>
+        <entry>om</entry>
       </history-search>
       <history-cmd>
         <entry>unsplit</entry>
-        <entry>vsplit</entry>
         <entry>W</entry>
+        <entry>vsplit</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
