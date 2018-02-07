@@ -93,11 +93,11 @@
         <mark key="." line="154" column="104" />
         <mark key="^" line="154" column="104" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/root.cljs" timestamp="1517979059329">
-        <mark key="[" line="21" column="12" />
-        <mark key="]" line="21" column="12" />
-        <mark key="^" line="21" column="17" />
-        <mark key="." line="21" column="12" />
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/root.cljs" timestamp="1517980802284">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="3" />
+        <mark key="^" line="26" column="3" />
+        <mark key="." line="26" column="3" />
       </file>
       <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/routing.cljc" timestamp="1512553698121">
         <mark key="[" line="55" column="19" />
