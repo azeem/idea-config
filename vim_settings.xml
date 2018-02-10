@@ -21,11 +21,11 @@
         <mark key="." line="34" column="29" />
         <mark key="^" line="34" column="29" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/about.cljs" timestamp="1517892582078">
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="10" column="13" />
-        <mark key="^" line="10" column="13" />
-        <mark key="." line="10" column="13" />
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/about.cljs" timestamp="1518241714023">
+        <mark key="[" line="6" column="31" />
+        <mark key="]" line="6" column="35" />
+        <mark key="^" line="6" column="35" />
+        <mark key="." line="6" column="35" />
       </file>
       <file name="$USER_HOME$/Dev/remark-web/resources/public/cards.html" timestamp="1517894812534">
         <mark key="[" line="10" column="0" />
@@ -65,11 +65,11 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljs" timestamp="1517979097497">
-        <mark key="[" line="8" column="20" />
-        <mark key="]" line="8" column="25" />
-        <mark key="." line="8" column="25" />
-        <mark key="^" line="8" column="25" />
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/signup.cljs" timestamp="1518242281298">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="18" column="92" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="18" column="89" />
       </file>
       <file name="$USER_HOME$/Dev/remark-web/src/main/config/dev.edn" timestamp="1513777941255">
         <mark key="[" line="2" column="30" />
@@ -98,7 +98,7 @@
       <file name="/Dummy.txt" timestamp="1517895865080">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" timestamp="1518236620952">
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/server.clj" timestamp="1518241549876">
         <mark key="'" line="110" column="63" />
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -183,11 +183,11 @@
         <mark key="]" line="7" column="47" />
         <mark key="." line="7" column="47" />
       </file>
-      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljs" timestamp="1517979081245">
-        <mark key="[" line="8" column="20" />
-        <mark key="]" line="8" column="24" />
-        <mark key="." line="8" column="24" />
-        <mark key="^" line="8" column="24" />
+      <file name="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/login.cljs" timestamp="1518242349682">
+        <mark key="[" line="16" column="70" />
+        <mark key="]" line="16" column="69" />
+        <mark key="." line="16" column="69" />
+        <mark key="^" line="16" column="69" />
       </file>
     </filemarks>
     <jumps>
@@ -293,44 +293,44 @@
       <jump line="12" column="0" filename="$USER_HOME$/Dev/remark-web/src/main/remark_web/ui/root.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>There</text>
       </register>
       <register name="-" type="4">
-        <text>(bidi/match-route rwrt/app-routes (:uri req))</text>
+        <text>There</text>
       </register>
       <register name="/" type="4">
         <text>app-routing</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFtiaWRpLmJpZGkgOmFzIGJpZGldCg==</text>
+        <text encoding="base64">ICAgICAgIChsZXQgW2Nsb3NlLW1vZGFsICMocndyL25hdi10byEgdGhpcyBtb2RhbC1yZXR1cm4pXQogICAgICAgICAoc2VtdWkvbW9kYWwgezpzaXplICAgICJzbWFsbCIKICAgICAgICAgICAgICAgICAgICAgICA6b25DbG9zZSBjbG9zZS1tb2RhbAogICAgICAgICAgICAgICAgICAgICAgIDpvcGVuICAgIHRydWV9CiAgICAgICAgICAgICAgICAgICAgICAoc2VtdWkvbW9kYWwtaGVhZGVyIG5pbCAiU2lnbnVwIikKICAgICAgICAgICAgICAgICAgICAgIChzZW11aS9tb2RhbC1jb250ZW50IG5pbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGRvbS9wIG5pbCAiSGVsbG8gVGhlcmUhISIpKQogICAgICAgICAgICAgICAgICAgICAgKHNlbXVpL21vZGFsLWFjdGlvbnMgbmlsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoc2VtdWkvYnV0dG9uIHs6b25DbGljayBjbG9zZS1tb2RhbH0gIkNhbmNlbCIpKSkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIChkb20vaDEgbmlsICJMb2dpbiIpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICJTaWdudXAiKSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIChsb2cvZGVidWcgInVyaSA9ICIpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDsgTVVTVCByZXF1aXJlIHRoZXNlLCBvciB5b3Ugd29uJ3QgZ2V0IHRoZW0gaW5zdGFsbGVkLgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIFtiaWRpLnZlcmJvc2UgOnJlZmVyIFticmFuY2ggbGVhZiBwYXJhbV1dCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIChsb2cvZGVidWcgInVyaSA9ICIpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDsgTVVTVCByZXF1aXJlIHRoZXNlLCBvciB5b3Ugd29uJ3QgZ2V0IHRoZW0gaW5zdGFsbGVkLgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">KGRlZiBhcHAtcm91dGluZy10cmVlCiAgKGZyL3JvdXRpbmctdHJlZQogICAgKGZyL21ha2Utcm91dGUgOmhvbWUgWyhmci9yb3V0ZXItaW5zdHJ1Y3Rpb24gOnBhZ2Utcm91dGVyIFs6aG9tZSA6cGFnZV0pXSkKICAgIChmci9tYWtlLXJvdXRlIDphYm91dCBbKGZyL3JvdXRlci1pbnN0cnVjdGlvbiA6cGFnZS1yb3V0ZXIgWzphYm91dCA6cGFnZV0pXSkKICAgIChmci9tYWtlLXJvdXRlIDptb2RhbC9sb2dpbiBbKGZyL3JvdXRlci1pbnN0cnVjdGlvbiA6bW9kYWwtcm91dGVyIFs6bG9naW4gOm1vZGFsXSldKQogICAgKGZyL21ha2Utcm91dGUgOm1vZGFsL3NpZ251cCBbKGZyL3JvdXRlci1pbnN0cnVjdGlvbiA6bW9kYWwtcm91dGVyIFs6c2lnbnVwIDptb2RhbF0pXSkpKQoKKGRlZiBhcHAtcm91dGVzCiAgKGJyYW5jaAogICAgIi8iCiAgICAobGVhZiAiIiA6aG9tZSkKICAgIChsZWFmICJhYm91dCIgOmFib3V0KQogICAgKGxlYWYgImxvZ2luIiA6bW9kYWwvbG9naW4pCiAgICAobGVhZiAic2lnbnVwIiA6bW9kYWwvc2lnbnVwKSkpCg==</text>
+        <text encoding="base64">ICAgIFtiaWRpLnZlcmJvc2UgOnJlZmVyIFticmFuY2ggbGVhZiBwYXJhbV1dCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
